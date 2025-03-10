@@ -1,14 +1,21 @@
 import json
+import os
 import wandb
 import re
 import string
+from dotenv import load_dotenv
 
-wandb.login(key="22a4d9a6fe8ff8bf1fabc55360f865d49b5f26d9")
+load_dotenv()
+
+api_key = os.getenv("WANDB_API_KEY")
+if api_key:
+    wandb.login(key=api_key)
+else:
+    print("WANDB_API_KEY not set. Please check your .env file.")
 run = wandb.init(
-    name    = "Try1", ### Wandb creates random run names if you skip this field, we recommend you give useful names
-    reinit  = True, ### Allows reinitalizing runs when you re-run this cell
-    project = "anlp-rag-evaluations" ### Project should be created in your wandb account
-)
+    name    = "Try1", 
+    reinit  = True, 
+    project = "anlp-rag-evaluations" )
 
 with open("data/system_outputs/system_output.json", "r", encoding="utf-8") as f:
     sys_outputs = json.load(f)
@@ -73,7 +80,7 @@ for q, em, f1 in zip(q_nums, exact_scores, f1_scores):
         "Exact Match": em,
         "F1 Score": f1
     })
-    
+
 wandb.log({
     "Average Exact Match": avg_exact,
     "Average F1 Score": avg_f1

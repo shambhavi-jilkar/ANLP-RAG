@@ -8,4 +8,7 @@ data/documents/
 .DS_Store
 
 # Environment variables
-env
+.env
+
+# Wandb 
+wandb/

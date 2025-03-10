@@ -1,0 +1,5 @@
+langchain==0.3.20
+langchain-community
+faiss-cpu==1.10.0
+transformers==4.49.0
+unstructured

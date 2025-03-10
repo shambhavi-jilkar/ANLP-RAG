@@ -1,0 +1,8 @@
+# Virtual environment 
+anlp-hw2/
+
+# Documents for RAG - too large for git commit
+data/documents/
+
+# MAC extra hidden file
+.DS_Store

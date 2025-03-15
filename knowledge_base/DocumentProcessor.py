@@ -4,9 +4,11 @@ import html
 import unicodedata
 import re
 import numpy as np
+import pickle
 # from langchain_experimental.text_splitter import SemanticChunker
-# from langchain_community.embeddings import HuggingFaceEmbeddings
-# from langchain_core.documents import Document
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_core.documents import Document
+from langchain_community.vectorstores import FAISS
 
 
 class DocumentProcessor:
@@ -174,12 +176,60 @@ class DocumentProcessor:
             json.dump(all_chunks, f, ensure_ascii=False, indent=2)
         
         return all_chunks
+    
+def build_vectorstore(chunks, output_file, new_docs_only = False):
+        
+    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    
+    if os.path.exists(output_file) and new_docs_only: ##UNIQUE DOCS ONLY IS WIP FUNCTIONALITY - HAVE TO FIND HOW TO EFFICIENTLY EXTRACT METADATA
+        print("Loading existing embeddings")
+        with open(output_file, "rb") as f:
+            vectorstore = pickle.load(f)
+        print("adding new docs")
+        existing_docs = vectorstore.get() 
+        existing_urls = set()
+        
+        for doc in existing_docs['metadatas']:
+            if 'source' in doc:
+                existing_urls.add(doc['source'])
+        new_docs = []
+        if chunk['metadata']['url'] not in existing_urls:
+            new_docs.append(Document(
+                page_content=chunk['page_content'],
+                metadata=chunk['metadata']
+            ))
+            
+        vectorstore.add_documents(new_docs)
+        with open(output_file, "wb") as f:
+            pickle.dump(vectorstore, f)
+        print("New doc embeddings added & saved to vector db")
+        
+    else:
+        print("Building vector store.")
+        docs = []
+        for chunk in chunks:
+            doc = Document(
+                page_content=chunk["page_content"],
+                metadata=chunk["metadata"]
+            )
+            docs.append(doc)
+        vectorstore = FAISS.from_documents(docs, embeddings)
+        with open(output_file, "wb") as f:
+            pickle.dump(vectorstore, f)
+        print("Embeddings computed and saved.")
+        
+    return vectorstore
         
 def main():
     processor = DocumentProcessor()
     #saves docs to output_directory/output_filename, returns list of page_content/metadata dicts
     processed_docs = processor.process_and_save_docs(output_filename="langchain_documents.json") 
     print(len(processed_docs))
+    
+    EMBEDDINGS_FILE = "doc_embeddings.pkl"
+    vec_db = build_vectorstore(processed_docs, EMBEDDINGS_FILE, new_docs_only=False)
+    
+
     
 if __name__== "__main__":
     main()

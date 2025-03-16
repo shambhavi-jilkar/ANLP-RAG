@@ -1,57 +1,92 @@
 import os
 import json
+import torch
 import pickle
-import wandb
-import re
-import string
-from dotenv import load_dotenv
-from langchain_community.document_loaders import DirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from huggingface_hub import login
+from langchain.prompts import FewShotPromptTemplate, PromptTemplate
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from langchain.chains import RetrievalQA
-from transformers import pipeline
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain_community.llms import HuggingFacePipeline
-
-# Load environment variables
+from dotenv import load_dotenv
+import os
 load_dotenv()
+# Log in to Hugging Face Hub (ensure you trust the source)
+login(token=os.getenv("HG_KEY"))
 
-api_key = os.getenv("WANDB_API_KEY")
-if api_key:
-    wandb.login(key=api_key)
-else:
-    print("WANDB_API_KEY not set. Please check your .env file.")
+# Load the embedding function and pre-built vector store
+embedding_function = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+# Note: adjust the path to your vector store directory (it was saved using FAISS.save_local)
+vectorstore = FAISS.load_local("vector_db/", embedding_function, allow_dangerous_deserialization=True)
+print(f"Loaded vector store with {vectorstore.index.ntotal} documents.")
+# Create a retriever that will fetch the top 4 relevant documents
+retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
 
-# Initialize wandb
-run = wandb.init(name="Combined_Run", reinit=True, project="anlp-rag-evaluations")
+# Set up few-shot examples (these should be representative of the kinds of questions you'll ask)
+examples = [
+    {
+        "question": "When is Picklesburgh?",
+        "context": "Related Stories & Events\nPicklesburgh 2025\nJuly 11 to July 13\nThis is kind of a big 'dill.' Picklesburgh is back and better than ever.",
+        "answer": "July 11th to July 13th"
+    },
+    {
+        "question": "Which neighborhood are the Carnegie Museums of Art and Natural History located?",
+        "context": "Carnegie Museum of Art and Natural History\nExplore two world-class museums located in Oakland, Pittsburgh.",
+        "answer": "Oakland"
+    },
+    {
+        "question": "What is the Strip District known for?",
+        "context": "Strip District\nThe one-half square mile shopping district is full of ethnic grocers, produce stands, and restaurants offering low prices and great variety.",
+        "answer": "Ethnic food stalls, grocery stores, and restaurants with low prices and great variety."
+    },
+    {
+        "question": "Why is the Strip District named as it is?",
+        "context": "Strip District\nLocals call it 'the Strip' because it is a narrow strip of land between the Allegheny River and a large hill.",
+        "answer": "It is a strip of land between a river and a large hill."
+    }
+]
 
-# File to cache the vector store
-EMBEDDINGS_FILE = "doc_embeddings.pkl"
+# Create an example prompt template
+example_template = """Question: {question} Context: {context} Answer: {answer}"""
+example_prompt = PromptTemplate(input_variables=['question', 'context', 'answer'], template=example_template)
+few_shot_prompt = FewShotPromptTemplate(
+    example_prompt=example_prompt,
+    examples=examples,
+    prefix="Answer questions based on the provided context. Here are some examples:",
+    suffix="Question: {question} Context: {context} Answer:",
+    input_variables=['question', 'context'],
+    example_separator="\n\n"
+)
 
-def build_vectorstore():
-    loader = DirectoryLoader('data/documents', glob="*.txt")
-    docs = loader.load()
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100, separators=["\n\n", "\n", " ", ""])
-    split_docs = text_splitter.split_documents(docs)
-    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-    vectorstore = FAISS.from_documents(split_docs, embeddings)
-    return vectorstore
+# Set up the LLM using a HuggingFace pipeline
+model_id = "mistralai/Mistral-Small-24B-Instruct-2501"
+tokenizer = AutoTokenizer.from_pretrained(model_id)
+model = AutoModelForCausalLM.from_pretrained(
+    model_id,
+    torch_dtype=torch.bfloat16 if torch.cuda.is_available() else torch.float32,
+    device_map="auto"
+)
+pipe = pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
+    max_new_tokens=512,
+    temperature=0.1,
+    top_p=0.95,
+    repetition_penalty=1.15
+)
+llm = HuggingFacePipeline(pipeline=pipe)
 
-if os.path.exists(EMBEDDINGS_FILE):
-    print("Loading precomputed embeddings")
-    with open(EMBEDDINGS_FILE, "rb") as f:
-        vectorstore = pickle.load(f)
-else:
-    print("Building vector store.")
-    vectorstore = build_vectorstore()
-    with open(EMBEDDINGS_FILE, "wb") as f:
-        pickle.dump(vectorstore, f)
-    print("Embeddings computed and saved.")
-
-retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 3})
-generator = pipeline("text2text-generation", model="google/flan-t5-small")
-llm = HuggingFacePipeline(pipeline=generator)
-qa_chain = RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=retriever)
+def retrieve_answer(question: str):
+    # Retrieve relevant documents for the given question
+    docs = retriever.get_relevant_documents(question)
+    # Concatenate the retrieved documents' content to form the context
+    context = "\n\n".join([doc.page_content for doc in docs])
+    # Format the few-shot prompt with the current question and retrieved context
+    prompt = few_shot_prompt.format(question=question, context=context)
+    # Generate the answer using the LLM
+    response = llm(prompt)
+    return response, context
 
 def run_experiments(questions_txt_path, output_json_path):
     results = {}
@@ -59,7 +94,7 @@ def run_experiments(questions_txt_path, output_json_path):
         questions = [line.strip() for line in f if line.strip()]
     for idx, question in enumerate(questions, start=1):
         print(f"Processing Question {idx}: {question}")
-        answer = qa_chain.run(question)
+        answer, context = retrieve_answer(question)
         results[str(idx)] = answer
         print(f"Answer {idx}: {answer}\n{'-'*40}")
     with open(output_json_path, "w", encoding="utf-8") as out_file:
@@ -67,58 +102,7 @@ def run_experiments(questions_txt_path, output_json_path):
     print(f"Experiment results saved to {output_json_path}")
     return results
 
-def normalize_answer(s):
-    def lower(text): return text.lower()
-    def remove_punc(text): return ''.join(ch for ch in text if ch not in set(string.punctuation))
-    def remove_articles(text): return re.sub(r'\b(a|an|the)\b', ' ', text)
-    def white_space_fix(text): return ' '.join(text.split())
-    return white_space_fix(remove_articles(remove_punc(lower(s))))
-
-def compute_exact(a_gold, a_pred):
-    return int(normalize_answer(a_gold) == normalize_answer(a_pred))
-
-def compute_f1(a_gold, a_pred):
-    gold_tokens = normalize_answer(a_gold).split()
-    pred_tokens = normalize_answer(a_pred).split()
-    if len(gold_tokens) == 0 or len(pred_tokens) == 0:
-        return int(gold_tokens == pred_tokens)
-    common_tokens = set(gold_tokens) & set(pred_tokens)
-    if not common_tokens:
-        return 0
-    precision = len(common_tokens) / len(pred_tokens)
-    recall = len(common_tokens) / len(gold_tokens)
-    return 2 * (precision * recall) / (precision + recall)
-
-def evaluate_results(sys_outputs_path, ref_answers_path):
-    with open(sys_outputs_path, "r", encoding="utf-8") as f:
-        sys_outputs = json.load(f)
-    with open(ref_answers_path, "r", encoding="utf-8") as f:
-        ref_answers = json.load(f)
-    q_nums, exact_scores, f1_scores = [], [], []
-    for q_num, gold_answer in ref_answers.items():
-        if q_num in sys_outputs:
-            pred_answer = sys_outputs[q_num]
-            exact = compute_exact(gold_answer, pred_answer)
-            f1 = compute_f1(gold_answer, pred_answer)
-            q_nums.append(int(q_num))
-            exact_scores.append(exact)
-            f1_scores.append(f1)
-            wandb.log({"Question Number": int(q_num), "Exact Match": exact, "F1 Score": f1})
-            print(f"Q{q_num}: Gold: {gold_answer} | Pred: {pred_answer} | EM: {exact}, F1: {f1:.2f}")
-        else:
-            print(f"Question {q_num} not found in system output.")
-    avg_exact = sum(exact_scores) / len(exact_scores) if exact_scores else 0
-    avg_f1 = sum(f1_scores) / len(f1_scores) if f1_scores else 0
-    wandb.log({"Average Exact Match": avg_exact, "Average F1 Score": avg_f1})
-    print(f"\nAverage Exact Match: {avg_exact:.2f}")
-    print(f"Average F1 Score: {avg_f1:.2f}")
-
 if __name__ == "__main__":
-    # Run experiments to generate system outputs
-    questions_txt = "data/test/questions.txt"
-    output_json = "data/system_outputs/system_output.json"
-    sys_outputs = run_experiments(questions_txt, output_json)
-    
-    # Evaluate results against reference answers
-    ref_answers_path = "data/test/reference_answers.json"
-    evaluate_results(output_json, ref_answers_path)
+    questions_txt = "data/test/questions.txt"  # Make sure this file contains your questions (one per line)
+    output_json = "data/test/system_output.json"
+    run_experiments(questions_txt, output_json)

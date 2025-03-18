@@ -1,171 +1,1262 @@
 {
-    "1": "1758",
-    "2": "John Forbes",
-    "3": "Picklesburgh",
-    "4": "City of Bridges",
-    "5": "Allegheny",
-    "6": "302,971",
-    "7": "Benigno Numine",
-    "8": "Pittsburghese",
-    "9": "Pittsburgh Steelers, Pittsburgh Penguins, Pittsburgh Pirates",
-    "10": "Pittsburgh International Airport",
-    "11": "44.1 inches",
-    "12": "103 \u00b0F",
-    "13": "Steel City",
-    "14": "446",
-    "15": "Integrated Planning",
-    "16": "Public History, Art, and Design",
-    "17": "University of Pittsburgh",
-    "18": "#2",
-    "19": "Seven",
-    "20": "More than 400",
-    "21": "Entrepreneurship and food scene",
-    "22": "Ed Gainey",
-    "23": "April 22, 1794 (borough) and March 18, 1816 (city)",
-    "24": "55.38 sq mi (143.42 km\u00b2)",
-    "25": "1,745,039",
-    "26": "303,255",
-    "27": "Pittsburgher, Yinzer",
-    "28": "$153.3 billion",
-    "29": "446",
-    "30": "G20 summit",
-    "31": "Picklesburgh",
-    "32": "Slippy",
-    "33": "Pittsburgh Penguins",
-    "34": "March 18, 1816",
-    "35": "Appalachia",
-    "36": "French Empire",
-    "37": "Allegheny and Ohio",
-    "38": "Fort Pitt",
-    "39": "All lands west of the Alleghenies and North of the Ohio River",
-    "40": "Jehovah's Witnesses",
-    "41": "1,370 ft (420 m)",
-    "42": "710 ft (220 m)",
-    "43": "67.80%",
-    "44": "Booth, Buggy, MOBOT, Scotch\u2019n\u2019Soda performances.",
-    "45": "CMU Alumni Awards, campus tours, Buggy previews, tailgate, and a football game.",
-    "46": "March 15, 2025",
-    "47": "Visit The Old Allegheny County Jail and Museum.",
-    "48": "Premier event geared toward researchers, clinicians, manufacturers, and other professionals involved in improving mobility and seating for people with disabilities.",
-    "49": "Arcade Hootenanny, CoWorkers, and Comedy Confidential.",
-    "50": "The Thaw: Weekend 1.",
-    "51": "Vegas Golden Knights, St. Louis Blues, New Jersey Devils, New York Islanders, Columbus Blue Jackets, Ottawa Senators.",
-    "52": "The official neighborhood calendar.",
-    "53": "A celebration of Irish culture and music in Market Square.",
-    "54": "Spring Vendor Market, live DJ sets, performances from local artists, and resources and activities for all ages.",
-    "55": "A wide array of products, foods, and technology solutions, opportunities to sample tasty menus, learn to cook and prepare delicious plates, and gain valuable knowledge in how to handle new technology.",
-    "56": "A vibrant and family-friendly celebration happening just before the start of Pittsburgh\u2019s iconic America\u2019s Grand St. Patrick\u2019s Day Event.",
-    "57": "Meet the colony of African Penguins, watch a feeding, chat with experts, make a penguin craft.",
-    "58": "Dinner, music and dancing, and views of the city skyline.",
-    "59": "Tartans celebrating their Reunion year join exclusive events, opportunities to connect with peers and create new memories at CMU.",
-    "60": "President Farnam Jahanian visits different cities to meet Tartans, faculty members share research, and alumni network with each other and university leadership.",
-    "61": "Recent alumni who are making an impact in their organizations and communities through leadership, innovation, and career achievements.",
-    "62": "Highmark Stadium.",
-    "63": "Live music, fire pits, and stunning fire performances.",
-    "64": "Experience the Enduring Legacy of August Wilson.",
-    "65": "YDG and CELO.",
-    "66": "Kegs N' Eggs at City Works Pittsburgh.",
-    "67": "The interplay between movement and music.",
-    "68": "Enhancing the implementation of comprehensive EHDI programs at the state level.",
-    "69": "Black music in America.",
-    "70": "National History Day Pittsburgh.",
-    "71": "Mass at Old St. Patrick\u2019s in the Strip and the parade route.",
-    "72": "Benedum Center.",
-    "73": "A casual happy-hour style meet up for non-drinkers & the sober curious.",
-    "74": "March 7, 2025 - March 16, 2025.",
-    "75": "March 9, 2025.",
-    "76": "March 12, 2025.",
-    "77": "March 8-9, 2025.",
-    "78": "Carnegie Museum of Art; Carnegie Museum of Natural History; Carnegie Science Center; The Andy Warhol Museum.",
-    "79": "June 1.",
-    "80": "Dinosaurs, gems & minerals, Native American & Egyptian artifacts, nature dioramas.",
-    "81": "An inclusive call for art that encouraged artists throughout southwestern Pennsylvania to share their visions for a just and equitable Pittsburgh.",
-    "82": "Carnegie Science Center.",
-    "83": "A broad range of artists and bands from around the world that blur genres of contemporary independent music.",
-    "84": "Detre Library & Archives at the Heinz History Center.",
-    "85": "May 2025.",
-    "86": "1212 Smallman Street, Pittsburgh, PA 15222.",
-    "87": "Exclusive Heinz merch and the Mister Rogers kindness collection.",
-    "88": "July 2025.",
-    "89": "Madama Butterfly.",
-    "90": "Monterey Bay Fish Grotto.",
-    "91": "7227 Reynolds St. Pittsburgh, PA 15208.",
-    "92": "Kara Walker: Harper's Pictorial History of the Civil War (Annotated).",
-    "93": "Horse-drawn carriages and early automobiles.",
-    "94": "Tuesday-Sunday.",
-    "95": "Contemporary Jewish art.",
-    "96": "Andy Warhol Museum.",
-    "97": "Chateau.",
-    "98": "Carnegie Museum of Art.",
-    "99": "Garfield.",
-    "100": "Children's Museum of Pittsburgh.",
-    "101": "Lawrenceville.",
-    "102": "Fort Pitt Museum.",
-    "103": "Room-sized installation art.",
-    "104": "Oakland, part of University of Pittsburgh.",
-    "105": "The outsider art of Randy Gilson.",
-    "106": "South Side Flats.",
-    "107": "All branches of military veterans and service personnel.",
-    "108": "Historic dental artifacts and equipment.",
-    "109": "August 14-17.",
-    "110": "Liberty Avenue in Bloomfield.",
-    "111": "Bloomfield Alliance, Bloomfield Business Network, Bloomfield Citizens Council, and Bloomfield Development Corporation.",
-    "112": "$150.00",
-    "113": "Apple, maple, and whiskey festivals.",
-    "114": "January 13 to January 19.",
-    "115": "Churches, fire halls and community buildings all over the Pittsburgh area.",
-    "116": "A local food pantry.",
-    "117": "Stage AE.",
-    "118": "Our Insider's Guide to Pittsburgh Greek Food Festivals.",
-    "119": "Stacks at 3 Crossings.",
-    "120": "Carrie Furnaces.",
-    "121": "The shopkeeper's favorite cookie.",
-    "122": "Croke Park.",
-    "123": "Not specified in the provided text.",
-    "124": "68,400.00",
-    "125": "University of Pittsburgh Panthers D1 football, Rib Fest.",
-    "126": "Terrible Towels waving, \"Renegade\" being played in the fourth quarter, incredible skyline views.",
-    "127": "2021",
-    "128": "38,362.00",
-    "129": "Skyline views, fireworks nights, the Pittsburgh Pierogi Race, fantastic local food and brews.",
-    "130": "Five.",
-    "131": "18,387.00",
-    "132": "The antics of Iceburgh (the Penguins' mascot), RC Cola, fantastic concerts, WWE live events, Monster Jam and other family events.",
-    "133": "Highmark Stadium.",
-    "134": "5,000.00",
-    "135": "Trains rumbling by during games, Steel Army supporters section.",
-    "136": "A nickname for the people who operate coal barges on the river.",
-    "137": "Memorabilia of Roberto Clemente.",
-    "138": "The Annual Vintage Races and Car Show as part of the Pittsburgh Vintage Grand Prix.",
-    "139": "Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins.",
-    "140": "Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals.",
-    "141": "Not specified in the provided text, but he speaks to the media.",
-    "142": "Single game tickets and season membership interest forms.",
-    "143": "(412) 281-7711 or (877) 568-3744.",
-    "144": "Western Pennsylvania Sports Museum.",
-    "145": "Miles Killebrew.",
-    "146": "Steelers Nation Radio (SNR).",
-    "147": "Exclusive audio content.",
-    "148": "NCAA ice hockey and basketball tournaments, fantastic concerts, WWE live events, Monster Jam and other family events.",
-    "149": "2025",
-    "150": "Terrible Towels.",
-    "151": "68,400.00",
-    "152": "Steelers Pro Shop located at Acrisure Stadium.",
-    "153": "Not specified in the provided text.",
-    "154": "Women of Steel platform.",
-    "155": "Ages 6-14.",
-    "156": "Preseason game tickets, t-shirts and more.",
-    "157": "Partnered with Operation Warm to provide sports gear for female athletes from Pittsburgh Public Schools.",
-    "158": "This information is not available in the given text.",
-    "159": "(412) 323-5000.",
-    "160": "115 Federal St., PNC Park at the North Shore, Pittsburgh, Pennsylvania 15212.",
-    "161": "1001 Fifth Ave., PPG Paints Arena Pittsburgh, Pennsylvania 15219.",
-    "162": "(412) 642-7367.",
-    "163": "pittsburghpenguins.com.",
-    "164": "This information is not available in the given text.",
-    "165": "120 Fifth Avenue, Fifth Avenue Place, Suite 2800, Pittsburgh, PA 15222.",
-    "166": "The name, logo and much more are coming soon.",
-    "167": "See SportsPITTSBURGH section.",
-    "168": "The rich tradition of sports in western Pennsylvania.",
-    "169": "University of Pittsburgh, Duquesne University and Robert Morris University."
+  "1": {
+    "Answer": "0",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "2": {
+    "Answer": "7:30",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "3": {
+    "Answer": "0.8",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "4": {
+    "Answer": "1",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "5": {
+    "Answer": "2.3",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "6": {
+    "Answer": "3",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "7": {
+    "Answer": "4",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "8": {
+    "Answer": "4",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "9": {
+    "Answer": "5",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "10": {
+    "Answer": "5.5",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "11": {
+    "Answer": "6",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "12": {
+    "Answer": "7",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "13": {
+    "Answer": "7",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "14": {
+    "Answer": "9",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "15": {
+    "Answer": "10",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "16": {
+    "Answer": "11",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "17": {
+    "Answer": "14",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "18": {
+    "Answer": "17",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "19": {
+    "Answer": "18",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "20": {
+    "Answer": "23",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "21": {
+    "Answer": "26",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "22": {
+    "Answer": "29",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "23": {
+    "Answer": "30",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "24": {
+    "Answer": "31",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "25": {
+    "Answer": "40",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "26": {
+    "Answer": "40",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "27": {
+    "Answer": "44",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "28": {
+    "Answer": "45",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "29": {
+    "Answer": "46",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "30": {
+    "Answer": "68",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "31": {
+    "Answer": "77",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "32": {
+    "Answer": "90",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "33": {
+    "Answer": "102",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "34": {
+    "Answer": "105",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "35": {
+    "Answer": "150",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "36": {
+    "Answer": "150",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "37": {
+    "Answer": "445",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "38": {
+    "Answer": "445",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "39": {
+    "Answer": "446",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "40": {
+    "Answer": "456",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "41": {
+    "Answer": "470",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "42": {
+    "Answer": "535",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "43": {
+    "Answer": "841",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "44": {
+    "Answer": "884",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "45": {
+    "Answer": "1200",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "46": {
+    "Answer": "1400",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "47": {
+    "Answer": "1540",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "48": {
+    "Answer": "1758",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "49": {
+    "Answer": "1869",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "50": {
+    "Answer": "1892",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "51": {
+    "Answer": "1895",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "52": {
+    "Answer": "1898",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "53": {
+    "Answer": "1912",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "54": {
+    "Answer": "1914",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "55": {
+    "Answer": "1920",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "56": {
+    "Answer": "1933",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "57": {
+    "Answer": "1949",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "58": {
+    "Answer": "1967",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "59": {
+    "Answer": "1977",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "60": {
+    "Answer": "1979",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "61": {
+    "Answer": "1988",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "62": {
+    "Answer": "2000",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "63": {
+    "Answer": "2001",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "64": {
+    "Answer": "2004",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "65": {
+    "Answer": "2023",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "66": {
+    "Answer": "2,800",
+    "Answer Type": "Number",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "67": {
+    "Answer": "3,614",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "68": {
+    "Answer": "6,288",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "69": {
+    "Answer": "7,707",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "70": {
+    "Answer": "8,628",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "71": {
+    "Answer": "17,000",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "72": {
+    "Answer": "March, 2018",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "73": {
+    "Answer": "68,400",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "74": {
+    "Answer": "4,000,000,000",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "75": {
+    "Answer": "100,000 - 105,000",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "76": {
+    "Answer": "120-160",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "77": {
+    "Answer": "1900; 1912; 1967",
+    "Answer Type": "Year",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "78": {
+    "Answer": "1900; 1967",
+    "Answer Type": "Year",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "79": {
+    "Answer": "1912; 1900",
+    "Answer Type": "Year",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "80": {
+    "Answer": "1912; 1915",
+    "Answer Type": "Year",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "81": {
+    "Answer": "20; 60",
+    "Answer Type": "Number",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "82": {
+    "Answer": "23 - 37",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "83": {
+    "Answer": "3; 4",
+    "Answer Type": "Number",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "84": {
+    "Answer": "35 - 50",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "85": {
+    "Answer": "35,000; 41,000",
+    "Answer Type": "Number",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "86": {
+    "Answer": "450-500",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "87": {
+    "Answer": "6:1; 7:1",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "88": {
+    "Answer": "63,000 - 66,000",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "89": {
+    "Answer": "80 - 100",
+    "Answer Type": "Number",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "90": {
+    "Answer": "801 Carrie Furnace Blvd; Carrie Blast Furnaces",
+    "Answer Type": "Address",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "91": {
+    "Answer": "980 Liberty Avenue, Pittsburgh, PA",
+    "Answer Type": "Address",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "92": {
+    "Answer": "9AM - 5PM",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "93": {
+    "Answer": "Allegheny, Monogahela, and Ohio",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "94": {
+    "Answer": "Andrew Carnegie and Andrew Mellon",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "95": {
+    "Answer": "Angels in the Architecture; Appalachian Spring",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "96": {
+    "Answer": "April 12th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "97": {
+    "Answer": "April 27th - April 28th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "98": {
+    "Answer": "April 3rd",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "99": {
+    "Answer": "April 3rd - April 5th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "100": {
+    "Answer": "April 4th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "101": {
+    "Answer": "Art Rooney",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "102": {
+    "Answer": "Aztec Gold",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "103": {
+    "Answer": "Bloomfield",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "104": {
+    "Answer": "Booths or multi-storied structures built around a theme",
+    "Answer Type": "Text",
+    "Answer Restriction": "Range",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "105": {
+    "Answer": "Carnegie Technical Schools; Carnegie Institute of Technology; Mellon Institute of Industrial Research",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "106": {
+    "Answer": "Centennial Conference",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "107": {
+    "Answer": "Center for Technology Transfer and Enterprise Creation",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "108": {
+    "Answer": "City Winery Pittsburgh",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "109": {
+    "Answer": "Computer Science",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "110": {
+    "Answer": "Coraopolis",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "111": {
+    "Answer": "December 31st; January 1st; New Year's Eve; New Year's Day",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "112": {
+    "Answer": "DIII; D3",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "113": {
+    "Answer": "Farnam Jahanian",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "114": {
+    "Answer": "February 14th - February 17th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "115": {
+    "Answer": "Gates Center for Computer Science; Hillman Center for Future Generation Technologies; Gates and Hillman Center; GHC",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "116": {
+    "Answer": "Germans; Irish",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "117": {
+    "Answer": "Gesling Stadium",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "118": {
+    "Answer": "Grawn Hall; Hambur Hall; Hamerschlag Hall",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "119": {
+    "Answer": "Health Care; Education; Life Sciences",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "120": {
+    "Answer": "Hill District",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "121": {
+    "Answer": "Hunt Library",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "122": {
+    "Answer": "Jaime Teevan",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "123": {
+    "Answer": "January",
+    "Answer Type": "Month",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "124": {
+    "Answer": "Jared L. Cohon University Center",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "125": {
+    "Answer": "John Forbes",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "126": {
+    "Answer": "July 17th - July 20th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "127": {
+    "Answer": "July 18th - July 20th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "128": {
+    "Answer": "July 21st",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "129": {
+    "Answer": "July 25th - July 27th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "130": {
+    "Answer": "June",
+    "Answer Type": "Month",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "131": {
+    "Answer": "June 19th - June 22nd",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "132": {
+    "Answer": "June 4th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "133": {
+    "Answer": "June 5th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "134": {
+    "Answer": "March",
+    "Answer Type": "Month",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "135": {
+    "Answer": "March",
+    "Answer Type": "Month",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "136": {
+    "Answer": "March 15th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "137": {
+    "Answer": "March 20th - March 29th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "138": {
+    "Answer": "March 22nd",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "139": {
+    "Answer": "March 25th - March 27th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "140": {
+    "Answer": "March 28th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "141": {
+    "Answer": "Master's of Science in Software Engineering, Master's of Science in Software Management, Master of Science in Information Technology - Information Security, Master of Science in Mobile and IoT Engineering",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "142": {
+    "Answer": "May 17th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "143": {
+    "Answer": "May 20th; November 4th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Options",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "144": {
+    "Answer": "May 30th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "145": {
+    "Answer": "May 4th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "146": {
+    "Answer": "May; November",
+    "Answer Type": "Month",
+    "Answer Restriction": "Options",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "147": {
+    "Answer": "Melike Konur: Women I've Been; The End That Never Was; Monument Eternal: Le'Andra LeSeur",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "148": {
+    "Answer": "Mellon Spray Park",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "149": {
+    "Answer": "Miller Institute for Contemporary Art",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "150": {
+    "Answer": "Neural Network Optimization",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "151": {
+    "Answer": "November",
+    "Answer Type": "Month",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "152": {
+    "Answer": "November 13th",
+    "Answer Type": "Year",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "153": {
+    "Answer": "November 22nd",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "154": {
+    "Answer": "Oakland",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "155": {
+    "Answer": "October 3rd - 11th",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "156": {
+    "Answer": "Pittsburgh Cultural District",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "157": {
+    "Answer": "Point State Park",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "158": {
+    "Answer": "Point State Park; Carnegie Science Center",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "159": {
+    "Answer": "Primanti sandwich",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "160": {
+    "Answer": "Qatar, Rwanda; Qatar; Rwanda",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "161": {
+    "Answer": "Red",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "162": {
+    "Answer": "Scotty; Terrier",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "163": {
+    "Answer": "September 18th - September 21st",
+    "Answer Type": "Date",
+    "Answer Restriction": "Range",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "164": {
+    "Answer": "SouthSide Works",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "165": {
+    "Answer": "Spring Carnival Weekend",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "166": {
+    "Answer": "Steel City; the 'Burgh; City of Bridges",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "167": {
+    "Answer": "Sustainability Initiative at CMU",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "168": {
+    "Answer": "Swartz Center for Entrepreneurship",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "169": {
+    "Answer": "T System",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "170": {
+    "Answer": "The Tartan",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "CMU"
+  },
+  "171": {
+    "Answer": "Thick-cut italian bread; Coleslaw; Pastrami; Deli meat; French Fries",
+    "Answer Type": "Text",
+    "Answer Restriction": "Options",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "172": {
+    "Answer": "Tosca",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "173": {
+    "Answer": "US Steel Tower",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "174": {
+    "Answer": "William Pitt",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "175": {
+    "Answer": "Yinz",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Fact",
+    "CMU Pittsburgh": "Pittsburgh"
+  },
+  "176": {
+    "Answer": "Miller Institute",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "177": {
+    "Answer": "March 22nd",
+    "Answer Type": "Date",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "178": {
+    "Answer": "Billy Holtz",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "179": {
+    "Answer": "Hunt Library, Fourth Floor",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  },
+  "180": {
+    "Answer": "Holding Still, Holding On",
+    "Answer Type": "Text",
+    "Answer Restriction": "Exact",
+    "Event Fact": "Events",
+    "CMU Pittsburgh": "CMU"
+  }
 }

@@ -1,0 +1,181 @@
+﻿question_id,question,answer,answer_type,answer_restriction,event_fact,cmu_pittsburgh
+1,What is the registration fee for non-students at the upcoming Energy Week conference?,0,Number,Exact,Events,CMU
+2,What time do the concerts start at Hartwood Acres on Sunday evenings?,7:30,Number,Exact,Events,Pittsburgh
+3,What is the length of the Buggy race course in miles?,0.8,Number,Range,Fact,CMU
+4,How many theaters are in the August Wilson African American Cultural Center?,1,Number,Exact,Fact,Pittsburgh
+5,How many miles long is the Pittsburgh Vintage Grand Prix race course?,2.3,Number,Range,Events,Pittsburgh
+6,How many professional sports teams are based in Pittsburgh?,3,Number,Exact,Fact,Pittsburgh
+7,How many tunnels connect downtown Pittsburgh to other neighborhoods?,4,Number,Exact,Fact,Pittsburgh
+8,How many floors of volumes does Carnegie Mellon's library system have?,4,Number,Exact,Fact,CMU
+9,How many Stanley Cups have the Pittsburgh Penguins won?,5,Number,Exact,Fact,Pittsburgh
+10,How many acres does the Frick Art & Historical Center estate cover?,5.5,Number,Range,Fact,Pittsburgh
+11,How many Super Bowls have the Pittsburgh Steelers won?,6,Number,Exact,Fact,Pittsburgh
+12,How many floors does the Andy Warhol Museum have?,7,Number,Exact,Fact,Pittsburgh
+13,How many schools and colleges make up Carnegie Mellon University?,7,Number,Exact,Fact,CMU
+14,How many floors does the Gates Center have?,9,Number,Exact,Fact,CMU
+15,How many rides does Kennywood Park currently have?,10,Number,Range,Fact,Pittsburgh
+16,What percentage of Carnegie Mellon applicants are accepted?,11,Number,Range,Fact,CMU
+17,How many blocks comprise the Pittsburgh Cultural District?,14,Number,Exact,Fact,Pittsburgh
+18,How many miles of trails are in Frick Park?,17,Number,Range,Fact,Pittsburgh
+19,How many varsity sports teams does Carnegie Mellon have?,18,Number,Range,Fact,CMU
+20,What percentage of Pittsburgh's workforce is employed in the tech sector?,23,Number,Range,Fact,Pittsburgh
+21,How many residence halls are on Carnegie Mellon's campus?,26,Number,Range,Fact,CMU
+22,How many universities are located within Pittsburgh city limits?,29,Number,Range,Fact,Pittsburgh
+23,What is the average class size at Carnegie Mellon?,30,Number,Range,Fact,CMU
+24,How many Nationality Rooms are in the Cathedral of Learning?,31,Number,Range,Fact,Pittsburgh
+25,What percentage of Pittsburgh's workforce was employed in steel manufacturing in 1950?,40,Number,Range,Fact,Pittsburgh
+26,How many hospitals are in the UPMC health system within Pittsburgh?,40,Number,Range,Fact,Pittsburgh
+27,What is Pittsburgh's average annual snowfall in inches?,44,Number,Range,Fact,Pittsburgh
+28,What is the cost of standard tickets for the Pittsburgh Wine Festival?,45,Number,Exact,Events,Pittsburgh
+29,How high in feet did the water rise during the Pittsburgh flood of 1936?,46,Number,Range,Fact,Pittsburgh
+30,What percentage of Carnegie Mellon's classes have fewer than 20 students?,68,Number,Exact,Fact,CMU
+31,How many acres does the Pittsburgh Zoo & PPG Aquarium cover?,77,Number,Range,Fact,Pittsburgh
+32,How many neighborhoods are officially recognized in Pittsburgh?,90,Number,Range,Fact,Pittsburgh
+33,How many countries are represented in Carnegie Mellon's student body?,102,Number,Range,Fact,CMU
+34,How many years has Buggy been a tradition at Carnegie Mellon?,105,Number,Range,Fact,CMU
+35,How high does the Point State Park fountain shoot water?,150,Number,Range,Fact,Pittsburgh
+36,How many species of birds are housed at the National Aviary?,150,Number,Range,Fact,Pittsburgh
+37,What is the seating capacity of Carnegie Mellon's McConomy auditorium?,445,Number,Exact,Fact,CMU
+38,How many seats are in McConomy Auditorium?,445,Number,Exact,Fact,CMU
+39,What is the exact count of bridges within Pittsburgh city limits?,446,Number,Range,Fact,Pittsburgh
+40,How many acres does Schenley Park cover?,456,Number,Range,Fact,Pittsburgh
+41,How many students attend Carnegie Mellon's Qatar campus?,470,Number,Range,Fact,CMU
+42,How tall is the Cathedral of Learning in feet?,535,Number,Range,Fact,Pittsburgh
+43,How tall is the U.S. Steel Tower in feet?,841,Number,Exact,Fact,Pittsburgh
+44,How long is the Roberto Clemente Bridge in feet?,884,Number,Range,Fact,Pittsburgh
+45,How many buildings were destroyed in Pittsburgh's Great Fire of 1845?,1200,Number,Range,Fact,Pittsburgh
+46,How many faculty members does Carnegie Mellon currently employ?,1400,Number,Range,Fact,CMU
+47,What is the average SAT score for admitted Carnegie Mellon students?,1540,Number,Range,Fact,CMU
+48,What year was Pittsburgh founded?,1758,Year,Exact,Fact,Pittsburgh
+49,In what year was the H.J. Heinz Company founded in Pittsburgh?,1869,Year,Exact,Fact,Pittsburgh
+50,What year did the Homestead Strike occur?,1892,Year,Exact,Fact,Pittsburgh
+51,In what year was the Pittsburgh Symphony Orchestra founded?,1895,Year,Exact,Fact,Pittsburgh
+52,In what year was Kennywood Park established?,1898,Year,Exact,Fact,Pittsburgh
+53,When was Hamerschlag Hall built?,1912,Year,Exact,Fact,CMU
+54,What year did the School of Drama become part of Carnegie Mellon?,1914,Year,Exact,Fact,CMU
+55,What year did the Buggy race tradition at CMU start?,1920,Year,Exact,Fact,CMU
+56,In what year did Primanti Brothers open its first location?,1933,Year,Exact,Fact,Pittsburgh
+57,What year was the Tepper School of Business established?,1949,Year,Exact,Fact,CMU
+58,In what year did Carnegie Institute of Technology merge with Mellon Institute?,1967,Year,Exact,Fact,CMU
+59,In what year was the Mattress Factory museum established?,1977,Year,Exact,Fact,Pittsburgh
+60,When was the Robotics Institute founded?,1979,Year,Exact,Fact,CMU
+61,In what year was the School of Computer Science established at Carnegie Mellon?,1988,Year,Exact,Fact,CMU
+62,When was the Purnell Center for the Arts opened?,2000,Year,Exact,Fact,CMU
+63,In what year did PNC Park open?,2001,Year,Exact,Fact,Pittsburgh
+64,When was Carnegie Mellon's campus in Qatar established?,2004,Year,Exact,Fact,CMU
+65,What year did Carnegie Mellon commit to carbon neutrality?,2023,Year,Exact,Fact,CMU
+66,What is the seating capacity of the Benedum Center?,"2,800",Number,Exact,Fact,Pittsburgh
+67,How long is the Fort Pitt Tunnel in feet?,"3,614",Number,Range,Fact,Pittsburgh
+68,What is the elevation of Mt. Washington in feet?,"6,288",Number,Range,Fact,Pittsburgh
+69,How many undergraduate students currently attend Carnegie Mellon University?,"7,707",Number,Range,Fact,CMU
+70,How many graduate students are currently enrolled at Carnegie Mellon?,"8,628",Number,Range,Fact,CMU
+71,What is the capacity for the outdoor concert at Point State Park?,"17,000",Number,Range,Events,Pittsburgh
+72,When did the current Carnegie Mellon president take office?,"March, 2018",Date,Range,Fact,CMU
+73,What is the seating capacity of Heinz Field?,"68,400",Number,Range,Fact,Pittsburgh
+74,What is the size of Carnegie Mellon's endowment?,"4,000,000,000",Number,Range,Fact,CMU
+75,What is the average starting salary for Carnegie Mellon graduates?,"100,000 - 105,000",Number,Range,Fact,CMU
+76,How many acres does Carnegie Mellon's main campus cover?,120-160,Number,Range,Fact,CMU
+77,When was the College of Engineering established at Carnegie Mellon?,1900; 1912; 1967,Year,Options,Fact,CMU
+78,In what year was Carnegie Mellon University founded?,1900; 1967,Year,Options,Fact,Pittsburgh
+79,When was the Allegheny Observatory built?,1912; 1900,Year,Options,Fact,Pittsburgh
+80,When was Carnegie Mellon's oldest building built?,1912; 1915,Year,Options,Fact,CMU
+81,How many blocks does the Strip District cover?,20; 60,Number,Options,Fact,Pittsburgh
+82,What percentage of Carnegie Mellon students are international?,23 - 37,Number,Range,Fact,CMU
+83,How many days does the Picklesburgh festival typically last?,3; 4,Number,Options,Fact,Pittsburgh
+84,What percentage of Carnegie Mellon students receive financial aid?,35 - 50,Number,Range,Fact,CMU
+85,What was the seating capacity of Forbes Field?,"35,000; 41,000",Number,Options,Fact,Pittsburgh
+86,How many student organizations are registered at Carnegie Mellon?,450-500,Number,Range,Fact,CMU
+87,What is the student-to-faculty ratio at Carnegie Mellon?,6:1; 7:1,Text,Exact,Fact,CMU
+88,What is the current tuition for Carnegie Mellon undergraduate students?,"63,000 - 66,000",Number,Range,Fact,CMU
+89,How many buildings are on Carnegie Mellon's main campus?,80 - 100,Number,Range,Fact,CMU
+90,Where will the Pittsburgh Irish Festival take place this September?,801 Carrie Furnace Blvd; Carrie Blast Furnaces,Address,Exact,Events,Pittsburgh
+91,Where is the Pittsburgh Jazz Festival being held this year?,"980 Liberty Avenue, Pittsburgh, PA",Address,Exact,Events,Pittsburgh
+92,What are the gallery hours for the new exhibition in the STUDIO for Creative Inquiry?,9AM - 5PM,Text,Exact,Events,CMU
+93,What three rivers form Pittsburgh's Golden Triangle?,"Allegheny, Monogahela, and Ohio",Text,Exact,Fact,Pittsburgh
+94,Who were the original founders of Carnegie Mellon University?,Andrew Carnegie and Andrew Mellon,Text,Exact,Fact,CMU
+95,Which symphony will be performed at the Pittsburgh Symphony Orchestra's season finale?,Angels in the Architecture; Appalachian Spring,Text,Options,Events,Pittsburgh
+96,When is Kennywood Park scheduled to open for the 2025 season?,April 12th,Date,Exact,Events,Pittsburgh
+97,When is the Lawrenceville Art All Night event?,April 27th - April 28th,Date,Range,Events,Pittsburgh
+98,What is the registration deadline for the Meeting of the Minds?,April 3rd,Date,Exact,Events,CMU
+99,When is the Carnegie Mellon Spring Carnival in 2025?,April 3rd - April 5th,Date,Range,Events,CMU
+100,When will the Pittsburgh Pirates home opener be in 2025?,April 4th,Date,Exact,Events,Pittsburgh
+101,Who founded the Pittsburgh Steelers?,Art Rooney,Text,Exact,Fact,Pittsburgh
+102,"What color are the ""Three Sisters"" bridges?",Aztec Gold,Text,Exact,Fact,Pittsburgh
+103,Which Pittsburgh neighborhood hosts the annual Little Italy Days?,Bloomfield,Text,Exact,Events,Pittsburgh
+104,What is Booth at Carnegie Mellon's Spring Carnival?,Booths or multi-storied structures built around a theme,Text,Range,Fact,CMU
+105,What was Carnegie Mellon University's original name?,Carnegie Technical Schools; Carnegie Institute of Technology; Mellon Institute of Industrial Research,Text,Options,Fact,CMU
+106,What is Carnegie Mellon's athletic conference affiliation?,Centennial Conference,Text,Exact,Fact,CMU
+107,What is the name of Carnegie Mellon's technology transfer office?,Center for Technology Transfer and Enterprise Creation,Text,Exact,Fact,CMU
+108,Where is the Al Stewart Concert?,City Winery Pittsburgh,Text,Exact,Events,Pittsburgh
+109,What is the most popular undergraduate major at Carnegie Mellon?,Computer Science,Text,Exact,Fact,CMU
+110,In what Pittsburgh neighborhood was actor Michael Keaton born?,Coraopolis,Text,Exact,Fact,Pittsburgh
+111,What date will the Highmark First Night Pittsburgh celebration take place?,December 31st; January 1st; New Year's Eve; New Year's Day,Text,Options,Events,Pittsburgh
+112,What NCAA division do Carnegie Mellon sports teams compete in?,DIII; D3,Text,Options,Fact,CMU
+113,Who is the current president of Carnegie Mellon University?,Farnam Jahanian,Text,Exact,Fact,CMU
+114,What are the dates for the 2025 Pittsburgh International Auto Show?,February 14th - February 17th,Date,Range,Events,Pittsburgh
+115,What is the name of Carnegie Mellon's computer science building?,Gates Center for Computer Science; Hillman Center for Future Generation Technologies; Gates and Hillman Center; GHC,Text,Options,Fact,CMU
+116,What was the largest immigrant group to settle in Pittsburgh during the 1880s?,Germans; Irish,Text,Options,Fact,Pittsburgh
+117,What is the name of Carnegie Mellon's football stadium?,Gesling Stadium,Text,Exact,Fact,CMU
+118,What is the name of Carnegie Mellon's oldest building?,Grawn Hall; Hambur Hall; Hamerschlag Hall,Text,Options,Fact,CMU
+119,What is Pittsburgh's largest industry by employment today?,Health Care; Education; Life Sciences,Text,Options,Fact,Pittsburgh
+120,What is the name of Pittsburgh's oldest neighborhood?,Hill District,Text,Options,Fact,Pittsburgh
+121,What is the name of Carnegie Mellon's main library?,Hunt Library,Text,Exact,Fact,CMU
+122,Who will deliver the next Distinguished Lecture at the School of Computer Science?,Jaime Teevan,Text,Exact,Events,CMU
+123,What is the coldest month in Pittsburgh on average?,January,Month,Exact,Fact,Pittsburgh
+124,What is the name of Carnegie Mellon's student center?,Jared L. Cohon University Center,Text,Exact,Fact,CMU
+125,Who founded Pittsburgh?,John Forbes,Text,Exact,Fact,Pittsburgh
+126,When will the Picklesburgh festival take place this summer?,July 17th - July 20th,Date,Range,Events,Pittsburgh
+127,What date will the Pittsburgh Vintage Mixer market take place?,July 18th - July 20th,Date,Range,Events,Pittsburgh
+128,What date will the Pittsburgh Vintage Grand Prix begin this year?,July 21st,Date,Exact,Events,Pittsburgh
+129,What date will the Pittsburgh Blues Festival take place?,July 25th - July 27th,Date,Range,Events,Pittsburgh
+130,What month will Pittsburgh host the national cybersecurity conference?,June,Month,Exact,Events,Pittsburgh
+131,What date will Pittsburgh's annual Juneteenth celebration be held this year?,June 19th - June 22nd,Date,Range,Events,Pittsburgh
+132,When will the Pittsburgh Symphony Orchestra feature Yo-Yo Ma?,June 4th,Date,Exact,Events,Pittsburgh
+133,What date will the Three Rivers Arts Festival begin in 2025?,June 5th,Date,Exact,Events,Pittsburgh
+134,What month will the Pittsburgh Cultural Trust's next Gallery Crawl be held?,March,Month,Exact,Events,Pittsburgh
+135,"What month will the Carnegie Museum of Art debut its exhibition, Raymond Saunders: Flowers from a Black Garden?",March,Month,Exact,Events,Pittsburgh
+136,What date is the 2025 Pittsburgh St. Patrick's Day Parade scheduled for?,March 15th,Date,Exact,Events,Pittsburgh
+137,What date will the Pittsburgh Fringe Festival take place?,March 20th - March 29th,Date,Range,Events,Pittsburgh
+138,What date will the Pittsburgh Riverhounds' 2025 season home opener be held?,March 22nd,Date,Exact,Events,Pittsburgh
+139,When is the next CMU Energy Week conference?,March 25th - March 27th,Date,Range,Events,CMU
+140,When is the next Gallery Crawl?,March 28th,Date,Exact,Events,Pittsburgh
+141,What degrees are offered at Carnegie Mellon's Silicon Valley campus?,"Master's of Science in Software Engineering, Master's of Science in Software Management, Master of Science in Information Technology - Information Security, Master of Science in Mobile and IoT Engineering",Text,Exact,Fact,CMU
+142,When is the Pittsburgh Pierogi Festival this year?,May 17th,Date,Exact,Events,Pittsburgh
+143,When is the next scheduled Pittsburgh mayoral election?,May 20th; November 4th,Date,Options,Events,Pittsburgh
+144,What date will the Pittsburgh Gay Pride events begin?,May 30th,Date,Range,Events,Pittsburgh
+145,When will the 2025 Pittsburgh Marathon take place?,May 4th,Date,Exact,Events,Pittsburgh
+146,What month will the Allegheny County elections be held this year?,May; November,Month,Options,Events,Pittsburgh
+147,What featured events are planned for the next Gallery Crawl?,Melike Konur: Women I've Been; The End That Never Was; Monument Eternal: Le'Andra LeSeur,Text,Options,Events,Pittsburgh
+148,Where will the Pittsburgh Black Music Festival be held?,Mellon Spray Park,Text,Exact,Events,Pittsburgh
+149,What is the name of Carnegie Mellon's art gallery?,Miller Institute for Contemporary Art,Text,Exact,Fact,CMU
+150,What is the topic of the upcoming Pittsburgh Tech Council Hackathon?,Neural Network Optimization,Text,Exact,Events,Pittsburgh
+151,What month will the Pittsburgh Technology Council hold its annual Tech 50 Awards?,November,Month,Exact,Events,Pittsburgh
+152,What date will the Three Rivers Film Festival begin?,November 13th,Year,Exact,Events,Pittsburgh
+153,What date will Pittsburgh's annual Light Up Night celebration occur this year?,November 22nd,Date,Exact,Events,Pittsburgh
+154,In what Pittsburgh neighborhood was Andy Warhol born?,Oakland,Text,Exact,Fact,Pittsburgh
+155,When is the ReelQ Film Festival?,October 3rd - 11th,Date,Range,Events,Pittsburgh
+156,Where is the next Gallery Crawl?,Pittsburgh Cultural District,Text,Exact,Events,Pittsburgh
+157,Where will the Juneteenth celebration take place in Pittsburgh?,Point State Park,Text,Exact,Events,Pittsburgh
+158,Where can families watch the Fourth of July fireworks in Pittsburgh?,Point State Park; Carnegie Science Center,Text,Options,Events,Pittsburgh
+159,What sandwich is Pittsburgh most famous for?,Primanti sandwich,Text,Exact,Fact,Pittsburgh
+160,What countries host Carnegie Mellon international campuses?,"Qatar, Rwanda; Qatar; Rwanda",Text,Options,Fact,CMU
+161,What is Carnegie Mellon's official school color?,Red,Text,Exact,Fact,CMU
+162,What is Carnegie Mellon's mascot?,Scotty; Terrier,Text,Options,Fact,CMU
+163,What date will the Pittsburgh JazzLive International Festival take place?,September 18th - September 21st,Date,Range,Events,Pittsburgh
+164,Where will the Pittsburgh Pierogi Festival be held this year?,SouthSide Works,Text,Exact,Events,Pittsburgh
+165,What is the name of Carnegie Mellon's annual spring carnival?,Spring Carnival Weekend,Text,Exact,Fact,CMU
+166,What is Pittsburgh's most common nickname?,Steel City; the 'Burgh; City of Bridges,Text,Options,Fact,Pittsburgh
+167,What is the name of Carnegie Mellon's sustainability initiative?,Sustainability Initiative at CMU,Text,Exact,Fact,CMU
+168,What is the name of Carnegie Mellon's entrepreneurship center?,Swartz Center for Entrepreneurship,Text,Exact,Fact,CMU
+169,What is the name of Pittsburgh's light rail system?,T System,Text,Exact,Fact,Pittsburgh
+170,What is the name of Carnegie Mellon's student newspaper?,The Tartan,Text,Exact,Fact,CMU
+171,What three ingredients are always included in a classic Primanti Brothers sandwich?,Thick-cut italian bread; Coleslaw; Pastrami; Deli meat; French Fries,Text,Options,Fact,Pittsburgh
+172,Which opera will open the Pittsburgh Opera's next season?,Tosca,Text,Exact,Events,Pittsburgh
+173,What is the name of Pittsburgh's tallest building?,US Steel Tower,Text,Exact,Fact,Pittsburgh
+174,How did Pittsburgh get its name?,William Pitt,Text,Exact,Fact,Pittsburgh
+175,"What word do Pittsburghers uniquely use instead of ""you all""?",Yinz,Text,Exact,Fact,Pittsburgh
+176,Where will the School of Design senior showcase be held?,Miller Institute,Text,Exact,Events,CMU
+177,"When is CMU Drama next presenting the ""The Inseparables""?",March 22nd,Date,Exact,Events,CMU
+178,Who is performing at the next School of Music student recital?,Billy Holtz,Text,Exact,Events,CMU
+179,"Where will the ""Here to Stay: Celebrating 40 Years at the Architecture Archives"" event be?","Hunt Library, Fourth Floor",Text,Exact,Events,CMU
+180,What is the name of the join exhibition of the CMU MFA school with the Andy Warhol museum?,"Holding Still, Holding On",Text,Exact,Events,CMU

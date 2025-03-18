@@ -17,8 +17,10 @@ source anlp-hw2/bin/activate
 ### 3. Install Dependencies
 pip install -r requirements.txt
 
-### 4. Add the scraped .txt files in data/documents
+### 4. Create a .env file with your huggingface token
+HGKEY="enter your key"
 
 ### 5. Run Project
 python3 main.py 
+python3 evaluate.py
 

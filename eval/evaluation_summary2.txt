@@ -1,0 +1,936 @@
+Q1: Type: Number
+      Gold: 0
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q2: Type: Number
+      Gold: 7:30
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q3: Type: Number
+      Gold: 0.8
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q4: Type: Number
+      Gold: 1
+      Pred: Three.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q5: Type: Number
+      Gold: 2.3
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q6: Type: Number
+      Gold: 3
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q7: Type: Number
+      Gold: 4
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q8: Type: Number
+      Gold: 4
+      Pred: Over 1 million items.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q9: Type: Number
+      Gold: 5
+      Pred: Five Stanley Cups.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q10: Type: Number
+      Gold: 5.5
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q11: Type: Number
+      Gold: 6
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q12: Type: Number
+      Gold: 7
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q13: Type: Number
+      Gold: 7
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q14: Type: Number
+      Gold: 9
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q15: Type: Number
+      Gold: 10
+      Pred: There are three wooden roller coasters, Phantom's Revenge, Steel Curtain, and Noah's Ark.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q16: Type: Number
+      Gold: 11
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q17: Type: Number
+      Gold: 14
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q18: Type: Number
+      Gold: 17
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q19: Type: Number
+      Gold: 18
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q20: Type: Number
+      Gold: 23
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q21: Type: Number
+      Gold: 26
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q22: Type: Number
+      Gold: 29
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q23: Type: Number
+      Gold: 30
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q24: Type: Number
+      Gold: 31
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q25: Type: Number
+      Gold: 40
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q26: Type: Number
+      Gold: 40
+      Pred: There are multiple hospitals within the UPMC health system in Pittsburgh.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q27: Type: Number
+      Gold: 44
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q28: Type: Number
+      Gold: 45
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q29: Type: Number
+      Gold: 46
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q30: Type: Number
+      Gold: 68
+      Pred: Less than 20%.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q31: Type: Number
+      Gold: 77
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q32: Type: Number
+      Gold: 90
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q33: Type: Number
+      Gold: 102
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q34: Type: Number
+      Gold: 105
+      Pred: Since the 1990s
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q35: Type: Number
+      Gold: 150
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q36: Type: Number
+      Gold: 150
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q37: Type: Number
+      Gold: 445
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q38: Type: Number
+      Gold: 445
+      Pred: Approximately 400 people.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q39: Type: Number
+      Gold: 446
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q40: Type: Number
+      Gold: 456
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q41: Type: Number
+      Gold: 470
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q42: Type: Number
+      Gold: 535
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q43: Type: Number
+      Gold: 841
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q44: Type: Number
+      Gold: 884
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q45: Type: Number
+      Gold: 1200
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q46: Type: Number
+      Gold: 1400
+      Pred: Over 1,400 faculty members.
+      EM: 0.00, F1: 0.40, BLEU: 0.00
+
+Q47: Type: Number
+      Gold: 1540
+      Pred: 720-770 for reading and writing, and 770-800 for math.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q48: Type: Year
+      Gold: 1758
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q49: Type: Year
+      Gold: 1869
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q50: Type: Year
+      Gold: 1892
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q51: Type: Year
+      Gold: 1895
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q52: Type: Year
+      Gold: 1898
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q53: Type: Year
+      Gold: 1912
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q54: Type: Year
+      Gold: 1914
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q55: Type: Year
+      Gold: 1920
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q56: Type: Year
+      Gold: 1933
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q57: Type: Year
+      Gold: 1949
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q58: Type: Year
+      Gold: 1967
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q59: Type: Year
+      Gold: 1977
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q60: Type: Year
+      Gold: 1979
+      Pred: 2019
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q61: Type: Year
+      Gold: 1988
+      Pred: 1988
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q62: Type: Year
+      Gold: 2000
+      Pred: 14 years
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q63: Type: Year
+      Gold: 2001
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q64: Type: Year
+      Gold: 2004
+      Pred: A new Richard King Mellon Hall of Sciences building is currently under construction.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q65: Type: Year
+      Gold: 2023
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q66: Type: Number
+      Gold: 2,800
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q67: Type: Number
+      Gold: 3,614
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q68: Type: Number
+      Gold: 6,288
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q69: Type: Number
+      Gold: 7,707
+      Pred: There are no specific dates mentioned in the text about the events happening during those days. However, there is a mention of Picklesburgh being held from July 11 to July 13.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q70: Type: Number
+      Gold: 8,628
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q71: Type: Number
+      Gold: 17,000
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q72: Type: Date
+      Gold: March, 2018
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q73: Type: Number
+      Gold: 68,400
+      Pred: There is no information available regarding the seating capacity of Heinz Field. Context: Heinz Field
+Heinz Field is a multi-purpose stadium located in Pittsburgh, Pennsylvania. The stadium has hosted numerous events such as the Pittsburgh Steelers games, concerts, and other sports events. However, there is no information available regarding the seating capacity of Heinz Field in the provided text
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q74: Type: Number
+      Gold: 4,000,000,000
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q75: Type: Number
+      Gold: 100,000 - 105,000
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q76: Type: Number
+      Gold: 120-160
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q77: Type: Year
+      Gold: 1900; 1912; 1967
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q78: Type: Year
+      Gold: 1900; 1967
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q79: Type: Year
+      Gold: 1912; 1900
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q80: Type: Year
+      Gold: 1912; 1915
+      Pred: Rowhouses, garden courts, greenbelt, and recreation facilities.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q81: Type: Number
+      Gold: 20; 60
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q82: Type: Number
+      Gold: 23 - 37
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q83: Type: Number
+      Gold: 3; 4
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q84: Type: Number
+      Gold: 35 - 50
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q85: Type: Number
+      Gold: 35,000; 41,000
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q86: Type: Number
+      Gold: 450-500
+      Pred: Over 350 student clubs and organizations.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q87: Type: Text
+      Gold: 6:1; 7:1
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q88: Type: Number
+      Gold: 63,000 - 66,000
+      Pred: $62,260
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q89: Type: Number
+      Gold: 80 - 100
+      Pred: Carnegie Mellon University is a private research university in Pittsburgh, Pennsylvania, United States. Context: Carnegie Mellon University
+Carnegie Mellon University (CMU) is a private research university in Pittsburgh, Pennsylvania, United States. The institution was established in 1900 by Andrew Carnegie as the Carnegie Technical Schools. In 1912, it became the Carnegie Institute of Technology and began granting four-year degrees. In 1967, it became Carnegie Mellon University through its merger with the Mellon Institute of Industrial Research, founded in 1913 by Andrew Mellon and Richard B. Mellon and formerly a part of the University of Pittsburgh.[11]
+The university consists of seven colleges, including the College of Engineering, the School of Computer Science, and the Tepper School of Business.[12] The university has its main campus located 5 miles (8 km) from downtown Pittsburgh. It also has over a dozen degree-granting locations in six continents, including campuses in Qatar, Silicon Valley, and Kigali, Rwanda (Carnegie Mellon University Africa) and partnerships with universities nationally and globally.[13] Carnegie Mellon enrolls 15,818 students across its multiple campuses from 117 countries and employs more than 1,400 faculty members.[14]
+Carnegie Mellon is known for its advances in research and new fields of study, home to many firsts in computer science (including the first machine learning, robotics, and computational biology departments), pioneering the field of management science,[15] and the first drama program in the United States. Carnegie Mellon is a member of the Association of American Universities and is classified among "R1: Doctoral Universities – Very high research activity".[16]
+Carnegie Mellon competes in NCAA Division III athletics as a founding member of the University Athletic Association. Carnegie Mellon fields eight men's teams and nine women's teams as the Tartans.[17] The university's faculty and alumni include 21 Nobel Prize laureates and 13 Turing Award winners and have received 142 Emmy Awards, 64 Tony Awards, and 13 Academy Awards.[18] Carnegie Mellon is ranked #26 in the US News & World Report Best Colleges Rankings 2022/2023.[19]
+Carnegi
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q90: Type: Address
+      Gold: 801 Carrie Furnace Blvd; Carrie Blast Furnaces
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q91: Type: Address
+      Gold: 980 Liberty Avenue, Pittsburgh, PA
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q92: Type: Text
+      Gold: 9AM - 5PM
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q93: Type: Text
+      Gold: Allegheny, Monogahela, and Ohio
+      Pred: Allegheny River and Monongahela River.
+      EM: 0.00, F1: 0.44, BLEU: 0.05
+
+Q94: Type: Text
+      Gold: Andrew Carnegie and Andrew Mellon
+      Pred: Andrew Carnegie and Andrew Mellon.
+      EM: 1.00, F1: 0.80, BLEU: 0.67
+
+Q95: Type: Text
+      Gold: Angels in the Architecture; Appalachian Spring
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q96: Type: Date
+      Gold: April 12th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q97: Type: Date
+      Gold: April 27th - April 28th
+      Pred: Late March or Early April
+      EM: 0.00, F1: 0.22, BLEU: 0.05
+
+Q98: Type: Date
+      Gold: April 3rd
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q99: Type: Date
+      Gold: April 3rd - April 5th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q100: Type: Date
+      Gold: April 4th
+      Pred: March 30th, 2025.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q101: Type: Text
+      Gold: Art Rooney
+      Pred: In what year did the Pittsburgh Steelers founder Arthur J. Rooney, Sr. found the team? Context: Pittsburgh Steelers Community Relations Mission Statement
+Pittsburgh Steelers Community Relations Mission Statement
+The Pittsburgh Steelers are proud to be a part of the Western Pennsylvania community. The organization's strong commitment to this area dates back to 1933 when Arthur J. Rooney, Sr. founded the team. Current President Art Rooney II is known as one of the most active NFL owners and one of Pittsburgh's most involved executives in civic affairs, as was his father, the late Steelers Chairman Dan Rooney. Steelers players, coaches and front office staff are involved in appearances, charitable donations and outreach programs with nonprofit and community groups. It's our way of giving back to the community that has given us so much!
+
+Super Steelers
+Discover the history behind the Steelers dynasty and celebrate the team’s six Super Bowl championships.
+Professional football traces its roots to Pittsburgh when in 1892, the Allegheny Athletic Association football team paid former Yale University All-American guard Pudge William “Pudge” Heffelfinger $500 to play against the Pittsburgh Athletic Club. Forty years later, Art Rooney Sr. founded Pittsburgh’s first professional franchise, first known as the Pirates and later renamed the Steelers. Today, the Steelers’ six Super Bowl trophies are tied for the most among any NFL team, helping to secure an unmatched legacy of professional football in Pittsburgh.
+
+Football
+The city's professional team, NFL's Pittsburgh Steelers, is named after the distribution company the Pittsburgh Steeling company established in 1927. News of the team has preempted news of elections and other events and are important to the region and its diaspora. The Steelers have been owned by the Rooney family since the team's founding in 1933, show consistency in coaching (only three coaches since the 1960s all with the same basic philosophy) and are noted as one of sports' most respectable franchises.[207] The Steelers have a long waiting list for season tickets, and have sold out every home game since 1972.[208] The team won four Super Bowls in a six-year span in the 1970s, a fifth Super Bowl in 2006, and a league record sixth Super Bowl in 2009.
+College football in the city dates to 1889[209] with the Division I (FBS) Panthers of the University of Pittsburgh posting nine national championships, qualifying 37 total bowl games, appearing in the 2018 ACC Championship Game, and winnin
+      EM: 0.00, F1: 0.01, BLEU: 0.00
+
+Q102: Type: Text
+      Gold: Aztec Gold
+      Pred: Yellow, Blue, and Green
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q103: Type: Text
+      Gold: Bloomfield
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q104: Type: Text
+      Gold: Booths or multi-storied structures built around a theme
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q105: Type: Text
+      Gold: Carnegie Technical Schools; Carnegie Institute of Technology; Mellon Institute of Industrial Research
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q106: Type: Text
+      Gold: Centennial Conference
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q107: Type: Text
+      Gold: Center for Technology Transfer and Enterprise Creation
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q108: Type: Text
+      Gold: City Winery Pittsburgh
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q109: Type: Text
+      Gold: Computer Science
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q110: Type: Text
+      Gold: Coraopolis
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q111: Type: Text
+      Gold: December 31st; January 1st; New Year's Eve; New Year's Day
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q112: Type: Text
+      Gold: DIII; D3
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q113: Type: Text
+      Gold: Farnam Jahanian
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q114: Type: Date
+      Gold: February 14th - February 17th
+      Pred: March 14-15, 2025.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q115: Type: Text
+      Gold: Gates Center for Computer Science; Hillman Center for Future Generation Technologies; Gates and Hillman Center; GHC
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q116: Type: Text
+      Gold: Germans; Irish
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q117: Type: Text
+      Gold: Gesling Stadium
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q118: Type: Text
+      Gold: Grawn Hall; Hambur Hall; Hamerschlag Hall
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q119: Type: Text
+      Gold: Health Care; Education; Life Sciences
+      Pred: Healthcare
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q120: Type: Text
+      Gold: Hill District
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q121: Type: Text
+      Gold: Hunt Library
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q122: Type: Text
+      Gold: Jaime Teevan
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q123: Type: Month
+      Gold: January
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q124: Type: Text
+      Gold: Jared L. Cohon University Center
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q125: Type: Text
+      Gold: John Forbes
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q126: Type: Date
+      Gold: July 17th - July 20th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q127: Type: Date
+      Gold: July 18th - July 20th
+      Pred: Friday, April 12.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q128: Type: Date
+      Gold: July 21st
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q129: Type: Date
+      Gold: July 25th - July 27th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q130: Type: Month
+      Gold: June
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q131: Type: Date
+      Gold: June 19th - June 22nd
+      Pred: People's Gas Holiday Market
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q132: Type: Date
+      Gold: June 4th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q133: Type: Date
+      Gold: June 5th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q134: Type: Month
+      Gold: March
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q135: Type: Month
+      Gold: March
+      Pred: Apri
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q136: Type: Date
+      Gold: March 15th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q137: Type: Date
+      Gold: March 20th - March 29th
+      Pred: Are there any restrictions on items I can brin
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q138: Type: Date
+      Gold: March 22nd
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q139: Type: Date
+      Gold: March 25th - March 27th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q140: Type: Date
+      Gold: March 28th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q141: Type: Text
+      Gold: Master's of Science in Software Engineering, Master's of Science in Software Management, Master of Science in Information Technology - Information Security, Master of Science in Mobile and IoT Engineering
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q142: Type: Date
+      Gold: May 17th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q143: Type: Date
+      Gold: May 20th; November 4th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q144: Type: Date
+      Gold: May 30th
+      Pred: Oakland.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q145: Type: Date
+      Gold: May 4th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q146: Type: Month
+      Gold: May; November
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q147: Type: Text
+      Gold: Melike Konur: Women I've Been; The End That Never Was; Monument Eternal: Le'Andra LeSeur
+      Pred: March 15th
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q148: Type: Text
+      Gold: Mellon Spray Park
+      Pred: TBD 2025
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q149: Type: Text
+      Gold: Miller Institute for Contemporary Art
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q150: Type: Text
+      Gold: Neural Network Optimization
+      Pred: January 29th to January 31st
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q151: Type: Month
+      Gold: November
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q152: Type: Year
+      Gold: November 13th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q153: Type: Date
+      Gold: November 22nd
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q154: Type: Text
+      Gold: Oakland
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q155: Type: Date
+      Gold: October 3rd - 11th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q156: Type: Text
+      Gold: Pittsburgh Cultural District
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q157: Type: Text
+      Gold: Point State Park
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q158: Type: Text
+      Gold: Point State Park; Carnegie Science Center
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q159: Type: Text
+      Gold: Primanti sandwich
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q160: Type: Text
+      Gold: Qatar, Rwanda; Qatar; Rwanda
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q161: Type: Text
+      Gold: Red
+      Pred: Céilidh. 
+
+Note: These answers assume that the questioner is familiar with the context provided about Carnegie Mellon University. If the questioner is unfamiliar with the context, they may require further clarification or explanation before providing accurate answers. 
+
+Here are some tips for answering these types of questions:
+* Read the context carefully to understand what is being asked.
+* Identify the key points mentioned in the context related to the topic of the question.
+* Use specific details from the context to answer the question accurately.
+* Be aware of any nuances o
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q162: Type: Text
+      Gold: Scotty; Terrier
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q163: Type: Date
+      Gold: September 18th - September 21st
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q164: Type: Text
+      Gold: SouthSide Works
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q165: Type: Text
+      Gold: Spring Carnival Weekend
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q166: Type: Text
+      Gold: Steel City; the 'Burgh; City of Bridges
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q167: Type: Text
+      Gold: Sustainability Initiative at CMU
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q168: Type: Text
+      Gold: Swartz Center for Entrepreneurship
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q169: Type: Text
+      Gold: T System
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q170: Type: Text
+      Gold: The Tartan
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q171: Type: Text
+      Gold: Thick-cut italian bread; Coleslaw; Pastrami; Deli meat; French Fries
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q172: Type: Text
+      Gold: Tosca
+      Pred: La Bohème will be opening the Pittsburgh Opera's next season.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q173: Type: Text
+      Gold: US Steel Tower
+      Pred: U.S. Steel Tower.
+      EM: 1.00, F1: 1.00, BLEU: 0.11
+
+Q174: Type: Text
+      Gold: William Pitt
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q175: Type: Text
+      Gold: Yinz
+      Pred: Yinz.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q176: Type: Text
+      Gold: Miller Institute
+      Pred: A combination of ethnic food stalls, grocery stores, and restaurants with low prices and great variety.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q177: Type: Date
+      Gold: March 22nd
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q178: Type: Text
+      Gold: Billy Holtz
+      Pred: None mentioned in the text. However, according to previous year
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q179: Type: Text
+      Gold: Hunt Library, Fourth Floor
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q180: Type: Text
+      Gold: Holding Still, Holding On
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+=== Overall Evaluation Metrics ===
+Average Exact Match: 0.022
+Average F1 Score:      0.027
+Average BLEU Score:    0.006
+
+=== Breakdown by Answer Type ===
+    Number -> EM: 0.000 | F1: 0.006 | BLEU: 0.000
+      Year -> EM: 0.043 | F1: 0.043 | BLEU: 0.008
+      Date -> EM: 0.000 | F1: 0.008 | BLEU: 0.002
+      Text -> EM: 0.053 | F1: 0.057 | BLEU: 0.015
+   Address -> EM: 0.000 | F1: 0.000 | BLEU: 0.000
+     Month -> EM: 0.000 | F1: 0.000 | BLEU: 0.000

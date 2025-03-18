@@ -1,0 +1,926 @@
+Q1: Type: Number
+      Gold: 0
+      Pred: $0 (Free)
+      EM: 0.00, F1: 0.67, BLEU: 0.00
+
+Q2: Type: Number
+      Gold: 7:30
+      Pred: None of the above. The concerts start at 7:30 p.m. on Sunday evenings.
+      EM: 0.00, F1: 0.17, BLEU: 0.02
+
+Q3: Type: Number
+      Gold: 0.8
+      Pred: 2 miles.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q4: Type: Number
+      Gold: 1
+      Pred: There are no theaters in the August Wilson African American Cultural Center. The Carolina Theatre is located nearby, but it is not part of the August Wilson Center.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q5: Type: Number
+      Gold: 2.3
+      Pred: The exact length of the course is not specified in the provided context. However, I can tell you that the event takes place on city streets, with over 150 vintage cars racing through the area.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q6: Type: Number
+      Gold: 3
+      Pred: Three. The Pittsburgh Steelers (NFL), the Pittsburgh Penguins (NHL), and the Pittsburgh Pirates (MLB).
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q7: Type: Number
+      Gold: 4
+      Pred: None.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q8: Type: Number
+      Gold: 4
+      Pred: I don't have enough information to accurately answer this question. However, I can tell you that Carnegie Mellon has a library system with over 1.4 million volumes.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q9: Type: Number
+      Gold: 5
+      Pred: 5.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q10: Type: Number
+      Gold: 5.5
+      Pred: The Frick Art & Historical Center estate covers 11 acres.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q11: Type: Number
+      Gold: 6
+      Pred: 6.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q12: Type: Number
+      Gold: 7
+      Pred: There is only one floor, but it has multiple spaces within it. The main floor is referred to as the "Entrance Space".
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q13: Type: Number
+      Gold: 7
+      Pred: Two. (Carlow University and the Community College of Allegheny County)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q14: Type: Number
+      Gold: 9
+      Pred: 39 floors.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q15: Type: Number
+      Gold: 10
+      Pred: Dozens.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q16: Type: Number
+      Gold: 11
+      Pred: Approximately 11%.
+      EM: 0.00, F1: 0.67, BLEU: 0.00
+
+Q17: Type: Number
+      Gold: 14
+      Pred: The final answer is: 14.
+      EM: 0.00, F1: 0.40, BLEU: 0.00
+
+Q18: Type: Number
+      Gold: 17
+      Pred: None, as the information provided is about Henderson, Kansas City, and Point State Park, but not Frick Park. However, Henderson has more than 37 miles (60 km) of trails.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q19: Type: Number
+      Gold: 18
+      Pred: There is no information provided about Carnegie Mellon having any varsity sports teams. However, based on the context, it can be inferred that Carnegie Mellon does not have any varsity sports teams as there is no mention of it in the list of teams competing
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q20: Type: Number
+      Gold: 23
+      Pred: 24.4% (as stated in the context)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q21: Type: Number
+      Gold: 26
+      Pred: There are 4 residence halls on Carnegie Mellon's campus.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q22: Type: Number
+      Gold: 29
+      Pred: Six.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q23: Type: Number
+      Gold: 30
+      Pred: Not specified in the provided context. However, it can be inferred that the class size varies significantly across different colleges and programs, with the largest class having 499 students and the smallest having 34 students.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q24: Type: Number
+      Gold: 31
+      Pred: 29 (Note: The question asks for the number of Nationality Rooms, not the total number of rooms in the Cathedral of Learning.)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q25: Type: Number
+      Gold: 40
+      Pred: There is no information provided about the percentage of Pittsburgh's workforce employed in steel manufacturing in 1950. The text only discusses the period from 1859 to the end of the American Civil War.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q26: Type: Number
+      Gold: 40
+      Pred: 40.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q27: Type: Number
+      Gold: 44
+      Pred: 20.6 inches.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q28: Type: Number
+      Gold: 45
+      Pred: There is no information provided about the cost of standard tickets for the Pittsburgh Wine Festival. However, I can tell you that the Pittsburgh Symphony Orchestra has a variety of benefits for its subscribers, including great savings, flexibility, priority seating, customer service, guaranteed
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q29: Type: Number
+      Gold: 46
+      Pred: The water rose to a height of 20 feet.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q30: Type: Number
+      Gold: 68
+      Pred: The School of Design has 34 students, which is less than 20. Therefore, 100% of Carnegie Mellon's classes have fewer than 20 students.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q31: Type: Number
+      Gold: 77
+      Pred: 31 ha (77 acres)
+      EM: 0.00, F1: 0.40, BLEU: 0.00
+
+Q32: Type: Number
+      Gold: 90
+      Pred: 14 historic districts are officially recognized in Pittsburgh.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q33: Type: Number
+      Gold: 102
+      Pred: 46.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q34: Type: Number
+      Gold: 105
+      Pred: There is no mention of "Buggy" in the provided context. The context mentions Pittsburgh, Ferris Wheel, Big Mac, Carnegie Museums, Pittsburgh Technology Council, and 40 Years Putting Our Members in the Spotlight!, but not "B
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q35: Type: Number
+      Gold: 150
+      Pred: Unfortunately, I don't have the specific information about the height of the fountain at Point State Park. However, I can tell you that the park is known for its beautiful scenery and tranquil atmosphere, making it a popular spot for relaxation and recreation.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q36: Type: Number
+      Gold: 150
+      Pred: More than 150 species.
+      EM: 0.00, F1: 0.40, BLEU: 0.08
+
+Q37: Type: Number
+      Gold: 445
+      Pred: I'm sorry, but I don't have any information about Carnegie Mellon's McConomy auditorium or its seating capacity. The provided context only mentions the University of Pittsburgh Stages' performance spaces.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q38: Type: Number
+      Gold: 445
+      Pred: There is no mention of "McConomy Auditorium". The correct answer is: Seated – 120.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q39: Type: Number
+      Gold: 446
+      Pred: 10
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q40: Type: Number
+      Gold: 456
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q41: Type: Number
+      Gold: 470
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q42: Type: Number
+      Gold: 535
+      Pred: (Given in the context) 535 feet.
+      EM: 0.00, F1: 0.33, BLEU: 0.04
+
+Q43: Type: Number
+      Gold: 841
+      Pred: The U.S. Steel Tower stands at 848 feet tall.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q44: Type: Number
+      Gold: 884
+      Pred: Not specified in the provided context. However, according to external sources, the Roberto Clemente Bridge is approximately 1,600 feet long.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q45: Type: Number
+      Gold: 1200
+      Pred: None. There is no record of a Great Fire of 1845 in Pittsburgh. However, Pittsburgh did experience a devastating fire in 1860 that destroyed much of the city.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q46: Type: Number
+      Gold: 1400
+      Pred: The question cannot be answered based on the provided context as it does not mention the current number of faculty members employed by Carnegie Mellon.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q47: Type: Number
+      Gold: 1540
+      Pred: Not specified in the provided context. However, it is mentioned that the middle 50% range of SAT scores for enrolled freshmen was 720-770 for reading and writing, and 770-800 for math. This implies that the average SAT score
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q48: Type: Year
+      Gold: 1758
+      Pred: There is no information provided about the founding year of Pittsburgh. However, according to the provided context, the Historical Society of Western Pennsylvania (HSWP) was founded in 1884, which is the year the organization's name was changed from the
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q49: Type: Year
+      Gold: 1869
+      Pred: 1869.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q50: Type: Year
+      Gold: 1892
+      Pred: 1892.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q51: Type: Year
+      Gold: 1895
+      Pred: The exact founding year is not specified in the provided context. However, based on general knowledge, the Pittsburgh Symphony Orchestra was founded in 1893.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q52: Type: Year
+      Gold: 1898
+      Pred: Not explicitly stated in the provided context. However, based on the information given, it can be inferred that Kennywood Park evolved from Kenny's Grove, which was a popular picnic spot during the American Civil War. Therefore, the establishment of Kennywood Park
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q53: Type: Year
+      Gold: 1912
+      Pred: Hamerschlag Hall was not mentioned in the provided context. However, based on external knowledge, Hamerschlag Hall was built in 1903.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q54: Type: Year
+      Gold: 1914
+      Pred: I'm sorry, but I cannot provide a response to this question as I don't have any information about the specific year the School of Drama became part of Carnegie Mellon. However, I can tell you that Carnegie Mellon University's School of Drama was
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q55: Type: Year
+      Gold: 1920
+      Pred: There is no mention of a "Buggy race" tradition at CMU in the provided context. However, it is possible that you are referring to the "Buggy" tradition at Carnegie Mellon University (CMU), which is a annual event where
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q56: Type: Year
+      Gold: 1933
+      Pred: 1933.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q57: Type: Year
+      Gold: 1949
+      Pred: 1907 (as the Evening School of Economics, Accounts, and Finance) and 1910 (as the School of Economics)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q58: Type: Year
+      Gold: 1967
+      Pred: 1967.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q59: Type: Year
+      Gold: 1977
+      Pred: 1975.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q60: Type: Year
+      Gold: 1979
+      Pred: There is no information provided about the founding of the Robotics Institute. However, the context mentions that robotics has been used as an educational tool in some middle and high schools since the 1980s.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q61: Type: Year
+      Gold: 1988
+      Pred: The final answer is: 1988.
+      EM: 0.00, F1: 0.40, BLEU: 0.00
+
+Q62: Type: Year
+      Gold: 2000
+      Pred: There is no information provided about the Purnell Center for the Arts. However, based on the context, it appears that the Purnell Center for the Arts is not located in Pittsburgh, as the context mentions the Carnegie Science Center and the Carnegie
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q63: Type: Year
+      Gold: 2001
+      Pred: Not mentioned in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q64: Type: Year
+      Gold: 2004
+      Pred: The exact date of establishment is not mentioned in the provided context. However, based on general knowledge, Carnegie Mellon University in Qatar was established in 2004.
+      EM: 0.00, F1: 0.08, BLEU: 0.00
+
+Q65: Type: Year
+      Gold: 2023
+      Pred: There is no information provided in the context about Carnegie Mellon committing to carbon neutrality.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q66: Type: Number
+      Gold: 2,800
+      Pred: Not explicitly stated in the provided context. However, based on general knowledge, the Benedum Center is a 2,500-seat arena located on the campus of Duquesne University in Pittsburgh, Pennsylvania. Therefore, its seating capacity is approximately
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q67: Type: Number
+      Gold: 3,614
+      Pred: Not mentioned in the provided context. However, it is implied that the tunnel in question is the Paw Paw Tunnel, which is 3,118 feet long.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q68: Type: Number
+      Gold: 6,288
+      Pred: The elevation of Mt. Washington is 6,288 feet.
+      EM: 0.00, F1: 0.25, BLEU: 0.03
+
+Q69: Type: Number
+      Gold: 7,707
+      Pred: 499 students in the College of Engineering, 391 in the Dietrich College of Humanities and Social Sciences, and 266 in the Mellon College of Science, totaling 1,156 undergraduate students. However, considering the total number of students in the
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q70: Type: Number
+      Gold: 8,628
+      Pred: The text does not provide information about the number of graduate students enrolled at Carnegie Mellon. However, it does mention that the middle 50% range of SAT scores for enrolled freshmen was 720-770 for reading and writing, and 770-800
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q71: Type: Number
+      Gold: 17,000
+      Pred: There is no information about an outdoor concert at Point State Park in the provided context. However, I can tell you that Heinz Hall has a capacity of over 2,600 seats.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q72: Type: Date
+      Gold: March, 2018
+      Pred: I don't have information about the current president's start date.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q73: Type: Number
+      Gold: 68,400
+      Pred: 38,496.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q74: Type: Number
+      Gold: 4,000,000,000
+      Pred: $8 billion (as of 2022)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q75: Type: Number
+      Gold: 100,000 - 105,000
+      Pred: Answer not explicitly stated in the provided context. However, according to Carnegie Mellon's website, the average starting salary for the Class of 2020 was $73,000. (Source: Carnegie Mellon University's Admissions website)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q76: Type: Number
+      Gold: 120-160
+      Pred: 157.2 acres.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q77: Type: Year
+      Gold: 1900; 1912; 1967
+      Pred: I couldn't find any information about a "College of Engineering" being established at Carnegie Mellon. However, Carnegie Mellon University does have a College of Engineering, which was established in 2007.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q78: Type: Year
+      Gold: 1900; 1967
+      Pred: Founded in 1900.
+      EM: 0.00, F1: 0.40, BLEU: 0.00
+
+Q79: Type: Year
+      Gold: 1912; 1900
+      Pred: The original Allegheny Observatory was built in 1859.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q80: Type: Year
+      Gold: 1912; 1915
+      Pred: Unfortunately, there is no information provided about when Carnegie Mellon's oldest building was built. However, I can tell you that Carnegie Mellon University was founded in 1900. If you'd like, I can try to find more information about the university
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q81: Type: Number
+      Gold: 20; 60
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q82: Type: Number
+      Gold: 23 - 37
+      Pred: The exact percentage of international students at Carnegie Mellon is not provided in the given context. However, we can infer that the remaining percentage must be domestic students, as the university is need-blind for domestic applicants.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q83: Type: Number
+      Gold: 3; 4
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q84: Type: Number
+      Gold: 35 - 50
+      Pred: Not specified in the provided context. However, it is mentioned that the university is need-blind for domestic applicants, which implies that they do not consider a student's ability to pay when making admissions decisions. This may suggest that a significant percentage of students receive
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q85: Type: Number
+      Gold: 35,000; 41,000
+      Pred: There is no information provided about Forbes Field, so it cannot be answered based on the given context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q86: Type: Number
+      Gold: 450-500
+      Pred: A specific number is not provided in the given context. However, it is mentioned that there are over 350 student clubs and organizations at the University of Pittsburgh.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q87: Type: Text
+      Gold: 6:1; 7:1
+      Pred: Answer not explicitly stated in the provided context. However, according to Carnegie Mellon's website, the student-to-faculty ratio is 7:1.
+      EM: 0.00, F1: 0.11, BLEU: 0.00
+
+Q88: Type: Number
+      Gold: 63,000 - 66,000
+      Pred: Free.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q89: Type: Number
+      Gold: 80 - 100
+      Pred: 81.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q90: Type: Address
+      Gold: 801 Carrie Furnace Blvd; Carrie Blast Furnaces
+      Pred: Carrie Furnaces.
+      EM: 0.00, F1: 0.44, BLEU: 0.01
+
+Q91: Type: Address
+      Gold: 980 Liberty Avenue, Pittsburgh, PA
+      Pred: The Pittsburgh International Jazz Festival presented by Citizens Bank is being held in Pittsburgh this year. The exact location is not specified in the provided context, but it can be inferred that it will take place in Pittsburgh, as the festival is described as bringing people
+      EM: 0.00, F1: 0.04, BLEU: 0.00
+
+Q92: Type: Text
+      Gold: 9AM - 5PM
+      Pred: $oxed{Wednesday - Sunday: 11am - 5pm, Closed 1-1:30 pm}$
+      EM: 0.00, F1: 0.22, BLEU: 0.02
+
+Q93: Type: Text
+      Gold: Allegheny, Monogahela, and Ohio
+      Pred: The Allegheny River, the Monongahela River, and the Ohio River.
+      EM: 0.00, F1: 0.55, BLEU: 0.03
+
+Q94: Type: Text
+      Gold: Andrew Carnegie and Andrew Mellon
+      Pred: Richard King Mellon and his wife Constance.
+      EM: 0.00, F1: 0.33, BLEU: 0.04
+
+Q95: Type: Text
+      Gold: Angels in the Architecture; Appalachian Spring
+      Pred: None of the above. The actual information is not provided in the given context.
+      EM: 0.00, F1: 0.13, BLEU: 0.03
+
+Q96: Type: Date
+      Gold: April 12th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q97: Type: Date
+      Gold: April 27th - April 28th
+      Pred: The event is not specified in the provided context. However, based on general information, it appears that the event is an annual event, as it is mentioned alongside other annual events such as the Dragon Boat Races and the First Night celebration.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q98: Type: Date
+      Gold: April 3rd
+      Pred: None provided. However, it can be inferred that the registration deadline is not specified, as the text mentions "Register in advance" and "Pre-Registration is required & will be approved." This suggests that registration is ongoing, and there is no
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q99: Type: Date
+      Gold: April 3rd - April 5th
+      Pred: There is no information about a Carnegie Mellon Spring Carnival in 2025. However, there are upcoming exhibitions listed, including The End That Never Was: Carnegie Mellon University 1st and 2nd Year MFA Exhibition, which runs from February
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q100: Type: Date
+      Gold: April 4th
+      Pred: The Pittsburgh Pirates home opener is scheduled for March 30, 2025 at 1:35 PM at PNC Park against the Cincinnati Reds.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q101: Type: Text
+      Gold: Art Rooney
+      Pred: Arthur J. Bonsack.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q102: Type: Text
+      Gold: Aztec Gold
+      Pred: The exact color is not specified in the provided context. However, based on general knowledge, the Three Sisters bridges are typically painted a dark brown or reddish-brown color, which is a common color for steel bridges.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q103: Type: Text
+      Gold: Bloomfield
+      Pred: Little Italy.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q104: Type: Text
+      Gold: Booths or multi-storied structures built around a theme
+      Pred: There is no information provided about a "Booth at Carnegie Mellon's Spring Carnival." However, based on the context, it appears that the Science Pavilion Classrooms A/B are available for various events, including birthday celebrations, showers, and corporate meetings.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q105: Type: Text
+      Gold: Carnegie Technical Schools; Carnegie Institute of Technology; Mellon Institute of Industrial Research
+      Pred: There is no information provided about Carnegie Mellon University's original name. However, I can tell you that Carnegie Mellon University was founded in 1900 as the Carnegie Technical School.
+      EM: 0.00, F1: 0.15, BLEU: 0.02
+
+Q106: Type: Text
+      Gold: Centennial Conference
+      Pred: None. Carnegie Mellon does not sponsor any varsity sports teams.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q107: Type: Text
+      Gold: Center for Technology Transfer and Enterprise Creation
+      Pred: The Carnegie Mellon University Technology Transfer Office.
+      EM: 0.00, F1: 0.31, BLEU: 0.07
+
+Q108: Type: Text
+      Gold: City Winery Pittsburgh
+      Pred: The Petersen Events Center.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q109: Type: Text
+      Gold: Computer Science
+      Pred: Unfortunately, the provided context does not mention the most popular undergraduate major at Carnegie Mellon. However, it does provide information on the size of the largest college, which is the College of Engineering, and the smallest college, which is the School of Design.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q110: Type: Text
+      Gold: Coraopolis
+      Pred: Not mentioned in the provided context. (The context is about Media Inquiries and Background of Heinz Hall.) 
+
+(Note: The question is based on the assumption that the context is about Pittsburgh, but the context does not mention Michael Keaton or
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q111: Type: Text
+      Gold: December 31st; January 1st; New Year's Eve; New Year's Day
+      Pred: December 31, 2024 - January 1, 2025. 
+
+Note to self: Make sure to check the exact date and time for the event before attending. 
+
+This event is a New Year's Eve celebration held in Pittsburgh
+      EM: 0.00, F1: 0.24, BLEU: 0.01
+
+Q112: Type: Text
+      Gold: DIII; D3
+      Pred: None (Carnegie Mellon does not have NCAA Division 1 or 2 sports teams.)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q113: Type: Text
+      Gold: Farnam Jahanian
+      Pred: There is no information provided about the current president of Carnegie Mellon University. However, as of my knowledge cutoff in March 2023, the President of Carnegie Mellon University is Neil Kerwin. Please note that this information may have changed since then.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q114: Type: Date
+      Gold: February 14th - February 17th
+      Pred: The dates for the 2025 Pittsburgh International Auto Show are not explicitly stated in the provided context. However, based on the given events, we can infer that the auto show likely takes place in October or November 2025. To determine the exact
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q115: Type: Text
+      Gold: Gates Center for Computer Science; Hillman Center for Future Generation Technologies; Gates and Hillman Center; GHC
+      Pred: There is no specific building mentioned in the provided context. However, Carnegie Mellon has several buildings dedicated to computer science, including the School of Computer Science building, which is located in the Gates Center for Computer Science.
+      EM: 0.00, F1: 0.20, BLEU: 0.06
+
+Q116: Type: Text
+      Gold: Germans; Irish
+      Pred: The Irish.
+      EM: 0.00, F1: 0.67, BLEU: 0.00
+
+Q117: Type: Text
+      Gold: Gesling Stadium
+      Pred: None (Carnegie Mellon does not have a football team.)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q118: Type: Text
+      Gold: Grawn Hall; Hambur Hall; Hamerschlag Hall
+      Pred: Haverford Hall was not mentioned in the provided text, but it is known that Carnegie Mellon's oldest building is Haverford Hall, which was built in 1891. However, since Haverford Hall was not mentioned in the provided text
+      EM: 0.00, F1: 0.05, BLEU: 0.01
+
+Q119: Type: Text
+      Gold: Health Care; Education; Life Sciences
+      Pred: While there isn't a specific number provided in the context, we can infer that the largest industry by employment today is likely to be healthcare, given the mention of "health care" as one of the industries Pittsburgh has shifted to. However, without
+      EM: 0.00, F1: 0.10, BLEU: 0.00
+
+Q120: Type: Text
+      Gold: Hill District
+      Pred: The South Side.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q121: Type: Text
+      Gold: Hunt Library
+      Pred: There is no specific mention of a main library in the provided context. However, it is known that the university has several libraries, including the Hunt Library, which serves as the main library for the university.
+      EM: 0.00, F1: 0.12, BLEU: 0.01
+
+Q122: Type: Text
+      Gold: Jaime Teevan
+      Pred: Unfortunately, I don't have information about who will deliver the next Distinguished Lecture at the School of Computer Science. The provided context only mentions faculty members receiving international recognition, but does not mention any upcoming lectures or events.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q123: Type: Month
+      Gold: January
+      Pred: No specific information is given about the coldest month in Pittsburgh, but based on the general description of the city's climate, it can be inferred that the coldest months are likely to be January and February, which are part of the winter season
+      EM: 0.00, F1: 0.05, BLEU: 0.00
+
+Q124: Type: Text
+      Gold: Jared L. Cohon University Center
+      Pred: There is no information provided about a specific student center at Carnegie Mellon. However, it is known that the university has a student union building called the "Student and Faculty Center" or more commonly referred to as the "SASC" (Student and Faculty
+      EM: 0.00, F1: 0.10, BLEU: 0.01
+
+Q125: Type: Text
+      Gold: John Forbes
+      Pred: None, Pittsburgh was not founded by a single person. However, the area was first settled by European explorers in 1758. The city was officially incorporated in 1794.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q126: Type: Date
+      Gold: July 17th - July 20th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q127: Type: Date
+      Gold: July 18th - July 20th
+      Pred: There is no mention of a "Pittsburgh Vintage Mixer market" in the provided context. However, it is mentioned that there are events happening on April 12, which includes the "Imperial Brunch" at Dancing Gnome.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q128: Type: Date
+      Gold: July 21st
+      Pred: July 26, 2024.
+      EM: 0.00, F1: 0.40, BLEU: 0.11
+
+Q129: Type: Date
+      Gold: July 25th - July 27th
+      Pred: July 25-27, 2025.
+      EM: 0.00, F1: 0.29, BLEU: 0.06
+
+Q130: Type: Month
+      Gold: June
+      Pred: The text does not explicitly state the month, but based on the date given (July 15), it can be inferred that the month is July. However, since the question asks for the month, I will provide a concise answer:
+
+July.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q131: Type: Date
+      Gold: June 19th - June 22nd
+      Pred: There is no information provided about a Juneteenth celebration in Pittsburgh, but it is worth noting that Juneteenth is celebrated on June 19th every year.
+      EM: 0.00, F1: 0.14, BLEU: 0.02
+
+Q132: Type: Date
+      Gold: June 4th
+      Pred: Unfortunately, I do not have access to a search engine to find this information. However, I can suggest checking the official website of the Pittsburgh Symphony Orchestra or the August Wilson Cultural Center for more information about their upcoming events and performances featuring Yo-Yo
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q133: Type: Date
+      Gold: June 5th
+      Pred: Unfortunately, I don't have information about the start date of the Three Rivers Arts Festival in 2025. However, I can tell you that the Three Rivers Arts Festival typically takes place in September. If you're looking for more information, I
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q134: Type: Month
+      Gold: March
+      Pred: Unfortunately, there is no information provided about the Pittsburgh Cultural Trust or its events, including the Gallery Crawl. Therefore, I cannot provide an answer based on the given context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q135: Type: Month
+      Gold: March
+      Pred: :
+
+The text does not mention an exhibition by Raymond Saunders: Flowers from a Black Garden. However, it does mention an exhibition by Michael, which is titled "Five Things: Summer 2024". The exhibition is scheduled to run from Fri, Sep
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q136: Type: Date
+      Gold: March 15th
+      Pred: (Saturday, March 15, 2025)
+      EM: 0.00, F1: 0.33, BLEU: 0.08
+
+Q137: Type: Date
+      Gold: March 20th - March 29th
+      Pred: 
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q138: Type: Date
+      Gold: March 22nd
+      Pred: There is no information provided about the Pittsburgh Riverhounds' 2025 season home opener. The provided context discusses the Steelers, Penguins, and college move-in days, but does not mention the Riverhounds.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q139: Type: Date
+      Gold: March 25th - March 27th
+      Pred: The conference is scheduled to take place in March 2025. The exact date is not specified, but it will likely be held around the same time as the 2025 Pennsylvania Data Center and Energy Innovation Summit, which is set to occur on
+      EM: 0.00, F1: 0.05, BLEU: 0.00
+
+Q140: Type: Date
+      Gold: March 28th
+      Pred: The next Gallery Crawl is on Sat, Feb 15 - Sun, Apr 27, 2025, at SPACE Gallery.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q141: Type: Text
+      Gold: Master's of Science in Software Engineering, Master's of Science in Software Management, Master of Science in Information Technology - Information Security, Master of Science in Mobile and IoT Engineering
+      Pred: None listed in the provided context.
+      EM: 0.00, F1: 0.06, BLEU: 0.00
+
+Q142: Type: Date
+      Gold: May 17th
+      Pred: The Pittsburgh Pierogi Festival is not listed in the provided context. However, based on the events listed, it's likely that the festival will take place in October or November of 2024 or 2025. Without more specific information, it's
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q143: Type: Date
+      Gold: May 20th; November 4th
+      Pred: The next scheduled Pittsburgh mayoral election is in 2013.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q144: Type: Date
+      Gold: May 30th
+      Pred: 12-7 p.m. (The start time for the Bigger Gayer Picnic is 3-4 p.m.)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q145: Type: Date
+      Gold: May 4th
+      Pred: The 2025 Pittsburgh Marathon will take place on May 4, 2025.
+      EM: 0.00, F1: 0.17, BLEU: 0.02
+
+Q146: Type: Month
+      Gold: May; November
+      Pred: May.
+      EM: 0.00, F1: 0.67, BLEU: 0.00
+
+Q147: Type: Text
+      Gold: Melike Konur: Women I've Been; The End That Never Was; Monument Eternal: Le'Andra LeSeur
+      Pred: Unfortunately, I don't have access to a search engine to look up the featured events planned for the next Gallery Crawl. However, I can suggest checking the museum's website or social media for the most up-to-date information.
+      EM: 0.00, F1: 0.00, BLEU: 0.01
+
+Q148: Type: Text
+      Gold: Mellon Spray Park
+      Pred: The festival is not explicitly stated to have a location, but it's implied that it will take place in Pittsburgh, as the city is mentioned as having been a "premier location" for Black music in America. However, the exact venue
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q149: Type: Text
+      Gold: Miller Institute for Contemporary Art
+      Pred: The Carnegie Museum of Art.
+      EM: 0.00, F1: 0.22, BLEU: 0.00
+
+Q150: Type: Text
+      Gold: Neural Network Optimization
+      Pred: Strengthening Communities.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q151: Type: Month
+      Gold: November
+      Pred: I'm sorry, but I cannot provide a response based on the given context as there is no mention of the month in which the Tech 50 Awards will be held.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q152: Type: Year
+      Gold: November 13th
+      Pred: November 13, 2024.
+      EM: 0.00, F1: 0.40, BLEU: 0.11
+
+Q153: Type: Date
+      Gold: November 22nd
+      Pred: Nov. 23, 2024.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q154: Type: Text
+      Gold: Oakland
+      Pred: Andy Warhol was not born in Pittsburgh. He was born in Pittsburgh's South Side neighborhood, but he grew up in the Regency Square neighborhood. However, I will provide the correct answer to the question as it is phrased:
+
+He
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q155: Type: Date
+      Gold: October 3rd - 11th
+      Pred: Unfortunately, I don't have information about the current year or the exact dates of the ReelQ Film Festival. However, based on the provided context, I can tell you that the ReelQ Film Festival has been around since 1985
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q156: Type: Text
+      Gold: Pittsburgh Cultural District
+      Pred: The next Gallery Crawl is on Saturday, March 9, 2025, at 820 Gallery.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q157: Type: Text
+      Gold: Point State Park
+      Pred: Light Up Night.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q158: Type: Text
+      Gold: Point State Park; Carnegie Science Center
+      Pred: Point State Park.
+      EM: 0.00, F1: 0.67, BLEU: 0.09
+
+Q159: Type: Text
+      Gold: Primanti sandwich
+      Pred: Pierogies are not typically considered a sandwich, so I'll provide an alternative answer. Pittsburgh is famous for its Primanti Bros. sandwiches, which feature coleslaw and fries on the sandwich itself. However, another popular option is the "
+      EM: 0.00, F1: 0.12, BLEU: 0.01
+
+Q160: Type: Text
+      Gold: Qatar, Rwanda; Qatar; Rwanda
+      Pred: Qatar.
+      EM: 0.00, F1: 0.40, BLEU: 0.00
+
+Q161: Type: Text
+      Gold: Red
+      Pred: Gold (or Yellow)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q162: Type: Text
+      Gold: Scotty; Terrier
+      Pred: There is no specific answer to this question as it is not mentioned in the provided context. However, according to external knowledge, Carnegie Mellon's mascot is the Tartan.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q163: Type: Date
+      Gold: September 18th - September 21st
+      Pred: Sept. 14-17, 2024.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q164: Type: Text
+      Gold: SouthSide Works
+      Pred: Downtown Pittsburgh.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q165: Type: Text
+      Gold: Spring Carnival Weekend
+      Pred: The question does not specify a particular event or tradition, but based on the provided context, it can be inferred that the annual spring carnival is likely the "Big E". However, this information is not explicitly stated in the text. Therefore, I will
+      EM: 0.00, F1: 0.10, BLEU: 0.01
+
+Q166: Type: Text
+      Gold: Steel City; the 'Burgh; City of Bridges
+      Pred: The City of Champions.
+      EM: 0.00, F1: 0.44, BLEU: 0.09
+
+Q167: Type: Text
+      Gold: Sustainability Initiative at CMU
+      Pred: There is no mention of Carnegie Mellon in the provided context. The context only mentions the University of Pittsburgh's sustainability initiatives.
+      EM: 0.00, F1: 0.09, BLEU: 0.01
+
+Q168: Type: Text
+      Gold: Swartz Center for Entrepreneurship
+      Pred: The Swartz Center for Entrepreneurship.
+      EM: 1.00, F1: 1.00, BLEU: 0.27
+
+Q169: Type: Text
+      Gold: T System
+      Pred: The Pittsburgh Light Rail (commonly known as The T).
+      EM: 0.00, F1: 0.22, BLEU: 0.00
+
+Q170: Type: Text
+      Gold: The Tartan
+      Pred: The Carnegie Chronicle.
+      EM: 0.00, F1: 0.00, BLEU: 0.11
+
+Q171: Type: Text
+      Gold: Thick-cut italian bread; Coleslaw; Pastrami; Deli meat; French Fries
+      Pred: French fries, coleslaw, and meat (deli meats).
+      EM: 0.00, F1: 0.63, BLEU: 0.02
+
+Q172: Type: Text
+      Gold: Tosca
+      Pred: There is no information provided about an upcoming opera season or a specific opera scheduled to open it. The provided context only mentions the gala event for the current season, which is already closed.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q173: Type: Text
+      Gold: US Steel Tower
+      Pred: The Monongahela Building, also known as the "Pittsburgh Skyline" or "The Monongahela", is the city's tallest building. It stands at 548 feet (167 m) tall.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q174: Type: Text
+      Gold: William Pitt
+      Pred: The city's name was originally spelled "Pittsburg" and was later standardized to "Pittsburgh." The name change occurred because the US Board on Geographic Names adopted a principle that place names ending in -burgh should drop the final -h
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q175: Type: Text
+      Gold: Yinz
+      Pred: Yinz.
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q176: Type: Text
+      Gold: Miller Institute
+      Pred: SPACE Gallery.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q177: Type: Date
+      Gold: March 22nd
+      Pred: Unfortunately, I don't have access to a search engine to look up the information. However, I can provide an alternative response based on the given context.
+
+Since the context mentions the University of Pittsburgh Stages, it's likely that Carnegie Mellon University
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q178: Type: Text
+      Gold: Billy Holtz
+      Pred: There is no information about a School of Music student recital in the provided context. However, I can tell you that Bruce Hornsby and yMusic are performing at the Byham Theater on Sunday, May 4, 2025.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q179: Type: Text
+      Gold: Hunt Library, Fourth Floor
+      Pred: There is no information provided about an "Here to Stay: Celebrating 40 Years at the Architecture Archives" event. The provided context mentions various exhibitions and events, but this specific event is not mentioned.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q180: Type: Text
+      Gold: Holding Still, Holding On
+      Pred: There is no mention of a joint exhibition between the CMU MFA school and the Andy Warhol museum in the provided context. The context mentions a virtual tour, a live printmaking demonstration, and an immersive look at innovative programs and creative strategies
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+=== Overall Evaluation Metrics ===
+Average Exact Match: 0.050
+Average F1 Score:      0.124
+Average BLEU Score:    0.008
+
+=== Breakdown by Answer Type ===
+    Number -> EM: 0.046 | F1: 0.097 | BLEU: 0.003
+      Year -> EM: 0.174 | F1: 0.230 | BLEU: 0.005
+      Date -> EM: 0.000 | F1: 0.051 | BLEU: 0.011
+      Text -> EM: 0.035 | F1: 0.144 | BLEU: 0.016
+   Address -> EM: 0.000 | F1: 0.243 | BLEU: 0.008
+     Month -> EM: 0.000 | F1: 0.120 | BLEU: 0.001

@@ -1,0 +1,915 @@
+Q1: Type: Number
+      Gold: 0
+      Pred: Non-PTC members: Not specified, contact Ryan Gent (rgent@pghtech.org) for details.
+Student regional competition: $14 (or $7 for Title I schools), if applicable.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q2: Type: Number
+      Gold: 7:30
+      Pred: Not provided (the question refers to Hartwood Acres, but no information about concerts or times there were given in the context).
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q3: Type: Number
+      Gold: 0.8
+      Pred: 1 mile (Panther Hollow Hillclimb)
+2 miles (Schenley Oval Circuit)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q4: Type: Number
+      Gold: 1
+      Pred: 3 (art galleries can be considered as spaces for performances, but they are not traditional theaters)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q5: Type: Number
+      Gold: 2.3
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q6: Type: Number
+      Gold: 3
+      Pred: 3 (Pirates, Steelers, Penguins)
+      EM: 0.00, F1: 0.40, BLEU: 0.08
+
+Q7: Type: Number
+      Gold: 4
+      Pred: 3 (Fort Pitt Tunnel, Squirrel Hill Tunnel, Liberty Tunnels)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q8: Type: Number
+      Gold: 4
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q9: Type: Number
+      Gold: 5
+      Pred: 5
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q10: Type: Number
+      Gold: 5.5
+      Pred: 6 (acres)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q11: Type: Number
+      Gold: 6
+      Pred: 6
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q12: Type: Number
+      Gold: 7
+      Pred: One (or Single)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q13: Type: Number
+      Gold: 7
+      Pred: 7 (Mellon College of Science, School of Computer Science, College of Engineering, School of Business, Heinz College, College of Fine Arts, School of Drama)
+      EM: 0.00, F1: 0.08, BLEU: 0.01
+
+Q14: Type: Number
+      Gold: 9
+      Pred: 39
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q15: Type: Number
+      Gold: 10
+      Pred: Approximately 40+ rides
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q16: Type: Number
+      Gold: 11
+      Pred: 11% (approx.)
+      EM: 0.00, F1: 0.67, BLEU: 0.00
+
+Q17: Type: Number
+      Gold: 14
+      Pred: 14 (blocks)
+      EM: 0.00, F1: 0.67, BLEU: 0.15
+
+Q18: Type: Number
+      Gold: 17
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q19: Type: Number
+      Gold: 18
+      Pred: Carnegie Mellon does not have any information provided about varsity sports teams in the given context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q20: Type: Number
+      Gold: 23
+      Pred: 24.4%
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q21: Type: Number
+      Gold: 26
+      Pred: 27 (on campus)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q22: Type: Number
+      Gold: 29
+      Pred: 6
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q23: Type: Number
+      Gold: 30
+      Pred: Average class size is not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q24: Type: Number
+      Gold: 31
+      Pred: 31 (or Thirty-one)
+      EM: 0.00, F1: 0.50, BLEU: 0.11
+
+Q25: Type: Number
+      Gold: 40
+      Pred: Not specified in the given context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q26: Type: Number
+      Gold: 40
+      Pred: Approximately 10 hospitals within Pittsburgh.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q27: Type: Number
+      Gold: 44
+      Pred: 44
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q28: Type: Number
+      Gold: 45
+      Pred: The text does not provide information about the cost of standard tickets for the Pittsburgh Wine Festival.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q29: Type: Number
+      Gold: 46
+      Pred: 46 feet
+      EM: 0.00, F1: 0.67, BLEU: 0.15
+
+Q30: Type: Number
+      Gold: 68
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q31: Type: Number
+      Gold: 77
+      Pred: 77 acres
+      EM: 0.00, F1: 0.67, BLEU: 0.15
+
+Q32: Type: Number
+      Gold: 90
+      Pred: 90
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q33: Type: Number
+      Gold: 102
+      Pred: 42
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q34: Type: Number
+      Gold: 105
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q35: Type: Number
+      Gold: 150
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q36: Type: Number
+      Gold: 150
+      Pred: 150+ (represented)
+      EM: 0.00, F1: 0.67, BLEU: 0.00
+
+Q37: Type: Number
+      Gold: 445
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q38: Type: Number
+      Gold: 445
+      Pred: McConomy Auditorium's capacity is not provided in the context. To find out, you would need to research or check the specific details for McConomy Auditorium.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q39: Type: Number
+      Gold: 446
+      Pred: 446 (citywide), 18 (expanded Downtown)
+      EM: 0.00, F1: 0.33, BLEU: 0.05
+
+Q40: Type: Number
+      Gold: 456
+      Pred: Schenley Park's coverage area is not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q41: Type: Number
+      Gold: 470
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q42: Type: Number
+      Gold: 535
+      Pred: 535 feet
+      EM: 0.00, F1: 0.67, BLEU: 0.15
+
+Q43: Type: Number
+      Gold: 841
+      Pred: 284 feet (841 ft is total height, conversion needed)
+      EM: 0.00, F1: 0.20, BLEU: 0.00
+
+Q44: Type: Number
+      Gold: 884
+      Pred: Approximately 2,350 feet (estimated length).
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q45: Type: Number
+      Gold: 1200
+      Pred: 2 (Two buildings were destroyed in the Great Fire of Pittsburgh in 1845.)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q46: Type: Number
+      Gold: 1400
+      Pred: 1400+
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q47: Type: Number
+      Gold: 1540
+      Pred: The text does not provide an average SAT score for all admitted Carnegie Mellon students. However, it does provide the middle 50% range for SAT scores of enrolled freshmen, which is 720-770 for reading and writing, and 770-800 for math.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q48: Type: Year
+      Gold: 1758
+      Pred: 1758
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q49: Type: Year
+      Gold: 1869
+      Pred: 1888
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q50: Type: Year
+      Gold: 1892
+      Pred: 1892
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q51: Type: Year
+      Gold: 1895
+      Pred: 1904
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q52: Type: Year
+      Gold: 1898
+      Pred: 1898 (when the Monongahela Street Railways Company leased the land from the Kenny family to create a trolley park)
+      EM: 0.00, F1: 0.12, BLEU: 0.01
+
+Q53: Type: Year
+      Gold: 1912
+      Pred: Hamerschlag Hall was not mentioned in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q54: Type: Year
+      Gold: 1914
+      Pred: 1932
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q55: Type: Year
+      Gold: 1920
+      Pred: 1993 (for Komen Pittsburgh Race for the Cure)
+1983 (for Pittsburgh Vintage Grand Prix)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q56: Type: Year
+      Gold: 1933
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q57: Type: Year
+      Gold: 1949
+      Pred: The Tepper School of Business was not mentioned in the provided context. However, the University of Pittsburgh's business education started in 1907 and was renamed the College of Business Administration in 1923. If you are asking about a specific change or establishment of the Tepper School of Business, more context is needed.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q58: Type: Year
+      Gold: 1967
+      Pred: 1967
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q59: Type: Year
+      Gold: 1977
+      Pred: 1977
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q60: Type: Year
+      Gold: 1979
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q61: Type: Year
+      Gold: 1988
+      Pred: 1988
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q62: Type: Year
+      Gold: 2000
+      Pred: Information about the Purnell Center for the Arts is not provided in the given context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q63: Type: Year
+      Gold: 2001
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q64: Type: Year
+      Gold: 2004
+      Pred: 1990s (estimated)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q65: Type: Year
+      Gold: 2023
+      Pred: No information provided in the context indicates when Carnegie Mellon committed to carbon neutrality.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q66: Type: Number
+      Gold: 2,800
+      Pred: Capacity (seats): Unspecified in provided context. Please check official sources for accurate information.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q67: Type: Number
+      Gold: 3,614
+      Pred: 3118 (This length refers to the Paw Paw Tunnel, not the Fort Pitt Tunnel. The Fort Pitt Tunnel does not have a specific length mentioned in the context provided.)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q68: Type: Number
+      Gold: 6,288
+      Pred: 5,284
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q69: Type: Number
+      Gold: 7,707
+      Pred: 1,736 (for the class of 2026)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q70: Type: Number
+      Gold: 8,628
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q71: Type: Number
+      Gold: 17,000
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q72: Type: Date
+      Gold: March, 2018
+      Pred: The context does not provide information about the current Carnegie Mellon president's term start date.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q73: Type: Number
+      Gold: 68,400
+      Pred: 38,362 (based on the information provided about PNC Park, which is the same as Heinz Field)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q74: Type: Number
+      Gold: 4,000,000,000
+      Pred: $578.5 million (as of Insp!re Innovation campaign in 2006)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q75: Type: Number
+      Gold: 100,000 - 105,000
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q76: Type: Number
+      Gold: 120-160
+      Pred: 63 (ha) or 157.2 (acres)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q77: Type: Year
+      Gold: 1900; 1912; 1967
+      Pred: 1900 (established as part of Carnegie Tech, which merged into Carnegie Mellon University in 1967)
+      EM: 0.00, F1: 0.22, BLEU: 0.00
+
+Q78: Type: Year
+      Gold: 1900; 1967
+      Pred: 1900
+      EM: 0.00, F1: 0.67, BLEU: 0.00
+
+Q79: Type: Year
+      Gold: 1912; 1900
+      Pred: 1859 (original), 1900-1912 (new)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q80: Type: Year
+      Gold: 1912; 1915
+      Pred: 1886 (not mentioned in provided context, but it refers to the original Carnegie Library of Pittsburgh, which later became part of Carnegie Mellon University)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q81: Type: Number
+      Gold: 20; 60
+      Pred: One half (0.5) square mile implies approximately 27 blocks (assuming standard city block size). However, the exact number may vary due to irregular street layouts.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q82: Type: Number
+      Gold: 23 - 37
+      Pred: 42 (percentage of countries represented in the class of 2026)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q83: Type: Number
+      Gold: 3; 4
+      Pred: Not specified from provided context. The duration of the Picklesburgh festival in 2025 is yet to be announced.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q84: Type: Number
+      Gold: 35 - 50
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q85: Type: Number
+      Gold: 35,000; 41,000
+      Pred: 35,000 (closed in 1970)
+      EM: 0.00, F1: 0.33, BLEU: 0.00
+
+Q86: Type: Number
+      Gold: 450-500
+      Pred: 400 (student organizations)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q87: Type: Text
+      Gold: 6:1; 7:1
+      Pred: 1:11 (approximate)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q88: Type: Number
+      Gold: 63,000 - 66,000
+      Pred: $62,260 (for 2023-2024)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q89: Type: Number
+      Gold: 80 - 100
+      Pred: 81
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q90: Type: Address
+      Gold: 801 Carrie Furnace Blvd; Carrie Blast Furnaces
+      Pred: Carrie Furnaces
+      EM: 0.00, F1: 0.44, BLEU: 0.01
+
+Q91: Type: Address
+      Gold: 980 Liberty Avenue, Pittsburgh, PA
+      Pred: Answer: August Wilson Cultural Center (for PIJF 2024)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q92: Type: Text
+      Gold: 9AM - 5PM
+      Pred: The gallery hours for the new exhibition in the STUDIO for Creative Inquiry are Wednesday - Sunday: 11am - 5pm (closed 1-1:30 pm).
+      EM: 0.00, F1: 0.10, BLEU: 0.02
+
+Q93: Type: Text
+      Gold: Allegheny, Monogahela, and Ohio
+      Pred: Allegheny, Monongahela, Ohio
+      EM: 0.00, F1: 0.57, BLEU: 0.10
+
+Q94: Type: Text
+      Gold: Andrew Carnegie and Andrew Mellon
+      Pred: Andrew Carnegie and Andrew Mellon
+      EM: 1.00, F1: 0.80, BLEU: 1.00
+
+Q95: Type: Text
+      Gold: Angels in the Architecture; Appalachian Spring
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.20, BLEU: 0.09
+
+Q96: Type: Date
+      Gold: April 12th
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q97: Type: Date
+      Gold: April 27th - April 28th
+      Pred: The question does not provide specific dates for the Lawrenceville Art All Night event.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q98: Type: Date
+      Gold: April 3rd
+      Pred: April 13, 2025 at 11:59 p.m. EST
+      EM: 0.00, F1: 0.22, BLEU: 0.03
+
+Q99: Type: Date
+      Gold: April 3rd - April 5th
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q100: Type: Date
+      Gold: April 4th
+      Pred: April 3, 2025
+      EM: 0.00, F1: 0.40, BLEU: 0.11
+
+Q101: Type: Text
+      Gold: Art Rooney
+      Pred: Arthur J. Rooney, Sr.
+      EM: 0.00, F1: 0.33, BLEU: 0.00
+
+Q102: Type: Text
+      Gold: Aztec Gold
+      Pred: Information about the color of the Three Sisters bridges is not provided in the context given.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q103: Type: Text
+      Gold: Bloomfield
+      Pred: Bloomfield
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q104: Type: Text
+      Gold: Booths or multi-storied structures built around a theme
+      Pred: Not provided in context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q105: Type: Text
+      Gold: Carnegie Technical Schools; Carnegie Institute of Technology; Mellon Institute of Industrial Research
+      Pred: Carnegie Institute of Technology
+      EM: 0.00, F1: 0.50, BLEU: 0.05
+
+Q106: Type: Text
+      Gold: Centennial Conference
+      Pred: NCAA Division III (UAA)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q107: Type: Text
+      Gold: Center for Technology Transfer and Enterprise Creation
+      Pred: Carnegie Mellon's technology transfer office is named the Swartz Center for Entrepreneurship.
+      EM: 0.00, F1: 0.44, BLEU: 0.05
+
+Q108: Type: Text
+      Gold: City Winery Pittsburgh
+      Pred: Not provided (Al Stewart concert details are not given in the context).
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q109: Type: Text
+      Gold: Computer Science
+      Pred: Engineering
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q110: Type: Text
+      Gold: Coraopolis
+      Pred: Upper Hill District
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q111: Type: Text
+      Gold: December 31st; January 1st; New Year's Eve; New Year's Day
+      Pred: Dec. 31, 2024-Jan. 1, 2025
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q112: Type: Text
+      Gold: DIII; D3
+      Pred: Division III
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q113: Type: Text
+      Gold: Farnam Jahanian
+      Pred: Farnam Jahanian (as of April 2024)
+      EM: 0.00, F1: 0.50, BLEU: 0.09
+
+Q114: Type: Date
+      Gold: February 14th - February 17th
+      Pred: There is no information provided about the dates for the 2025 Pittsburgh International Auto Show in the given context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q115: Type: Text
+      Gold: Gates Center for Computer Science; Hillman Center for Future Generation Technologies; Gates and Hillman Center; GHC
+      Pred: Newell-Simon Hall
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q116: Type: Text
+      Gold: Germans; Irish
+      Pred: Immigrants from southern and eastern Europe, including Italy, the Balkans, the Austro-Hungarian Empire, and the Russian Empire.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q117: Type: Text
+      Gold: Gesling Stadium
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q118: Type: Text
+      Gold: Grawn Hall; Hambur Hall; Hamerschlag Hall
+      Pred: Skibo Hall (originally built in the 1950s)
+      EM: 0.00, F1: 0.17, BLEU: 0.03
+
+Q119: Type: Text
+      Gold: Health Care; Education; Life Sciences
+      Pred: Healthcare (University of Pittsburgh Medical Center)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q120: Type: Text
+      Gold: Hill District
+      Pred: Homewood (or the Mexican War Streets area of the North Side, as they are both contenders for Pittsburgh's oldest neighborhood)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q121: Type: Text
+      Gold: Hunt Library
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q122: Type: Text
+      Gold: Jaime Teevan
+      Pred: Information provided does not specify who will deliver the next Distinguished Lecture at the School of Computer Science.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q123: Type: Month
+      Gold: January
+      Pred: January
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q124: Type: Text
+      Gold: Jared L. Cohon University Center
+      Pred: Cohon University Center
+      EM: 0.00, F1: 0.75, BLEU: 0.29
+
+Q125: Type: Text
+      Gold: John Forbes
+      Pred: Losantiville (later renamed Pittsburgh) was founded by General John Neville in 1758. However, it was renamed Cincinnati in 1795 by Arthur St. Clair, the Governor of the Northwest Territory.
+      EM: 0.00, F1: 0.07, BLEU: 0.01
+
+Q126: Type: Date
+      Gold: July 17th - July 20th
+      Pred: July 2025 (year)
+      EM: 0.00, F1: 0.29, BLEU: 0.06
+
+Q127: Type: Date
+      Gold: July 18th - July 20th
+      Pred: Answer: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q128: Type: Date
+      Gold: July 21st
+      Pred: July 26, 2024 (year provided in the context)
+      EM: 0.00, F1: 0.22, BLEU: 0.03
+
+Q129: Type: Date
+      Gold: July 25th - July 27th
+      Pred: July 25-27, 2025
+      EM: 0.00, F1: 0.29, BLEU: 0.06
+
+Q130: Type: Month
+      Gold: June
+      Pred: April (for the 40 Stories event, not specified for a national cybersecurity conference)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q131: Type: Date
+      Gold: June 19th - June 22nd
+      Pred: June 14-16, 2024 (or June 16 if asking for main day)
+      EM: 0.00, F1: 0.13, BLEU: 0.02
+
+Q132: Type: Date
+      Gold: June 4th
+      Pred: Sep 26, 2025 (for Dvořák's Eighth) or Oct 10, 2025 (for Symphonie Fantastique) as he is associated with both events hosted by Pittsburgh Symphony Orchestra.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q133: Type: Date
+      Gold: June 5th
+      Pred: Not specified in the provided context. More information is needed to determine the date.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q134: Type: Month
+      Gold: March
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q135: Type: Month
+      Gold: March
+      Pred: April 2025
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q136: Type: Date
+      Gold: March 15th
+      Pred: Saturday, March 15, 2025
+      EM: 0.00, F1: 0.33, BLEU: 0.08
+
+Q137: Type: Date
+      Gold: March 20th - March 29th
+      Pred: No information provided about the Pittsburgh Fringe Festival dates in the given context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q138: Type: Date
+      Gold: March 22nd
+      Pred: Information provided does not specify the dates for the Pittsburgh Riverhounds' 2025 season home opener.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q139: Type: Date
+      Gold: March 25th - March 27th
+      Pred: Not provided in context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q140: Type: Date
+      Gold: March 28th
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q141: Type: Text
+      Gold: Master's of Science in Software Engineering, Master's of Science in Software Management, Master of Science in Information Technology - Information Security, Master of Science in Mobile and IoT Engineering
+      Pred: Computer Science, Information Technology, MBA
+      EM: 0.00, F1: 0.18, BLEU: 0.00
+
+Q142: Type: Date
+      Gold: May 17th
+      Pred: The Pittsburgh Pierogi Festival date is not provided in the given context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q143: Type: Date
+      Gold: May 20th; November 4th
+      Pred: The next scheduled Pittsburgh mayoral election is in the 2023 municipal elections. However, the current mayor, Michael Moreno, is serving the remainder of Tarah Probst's term, which ends with these elections. Therefore, a new election will be held during the 2023 municipal elections to elect a mayor for a full term.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q144: Type: Date
+      Gold: May 30th
+      Pred: May 31, 2024
+      EM: 0.00, F1: 0.40, BLEU: 0.11
+
+Q145: Type: Date
+      Gold: May 4th
+      Pred: May 4, 2025
+      EM: 0.00, F1: 0.40, BLEU: 0.11
+
+Q146: Type: Month
+      Gold: May; November
+      Pred: May (for the data provided, it's assumed that the elections are held in May as stated in the source for the year 2024)
+      EM: 0.00, F1: 0.10, BLEU: 0.00
+
+Q147: Type: Text
+      Gold: Melike Konur: Women I've Been; The End That Never Was; Monument Eternal: Le'Andra LeSeur
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.01
+
+Q148: Type: Text
+      Gold: Mellon Spray Park
+      Pred: Highmark/AHN Park Stage (Allegheny Commons Park North)
+      EM: 0.00, F1: 0.20, BLEU: 0.03
+
+Q149: Type: Text
+      Gold: Miller Institute for Contemporary Art
+      Pred: Carnegie Museum of Art
+      EM: 0.00, F1: 0.22, BLEU: 0.06
+
+Q150: Type: Text
+      Gold: Neural Network Optimization
+      Pred: Strengthening Communities
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q151: Type: Month
+      Gold: November
+      Pred: November
+      EM: 1.00, F1: 1.00, BLEU: 0.18
+
+Q152: Type: Year
+      Gold: November 13th
+      Pred: Nov 13, 2024
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q153: Type: Date
+      Gold: November 22nd
+      Pred: November 23, 2024
+      EM: 0.00, F1: 0.40, BLEU: 0.11
+
+Q154: Type: Text
+      Gold: Oakland
+      Pred: East Liberty (or more specifically, Oakland, which is part of the East Liberty neighborhood)
+      EM: 0.00, F1: 0.14, BLEU: 0.00
+
+Q155: Type: Date
+      Gold: October 3rd - 11th
+      Pred: October 6-15, 2023
+      EM: 0.00, F1: 0.33, BLEU: 0.08
+
+Q156: Type: Text
+      Gold: Pittsburgh Cultural District
+      Pred: Downtown's Cultural District (implied)
+      EM: 0.00, F1: 0.57, BLEU: 0.17
+
+Q157: Type: Text
+      Gold: Point State Park
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q158: Type: Text
+      Gold: Point State Park; Carnegie Science Center
+      Pred: Point State Park, Carnegie Science Center (with ticket purchase)
+      EM: 0.00, F1: 0.80, BLEU: 0.15
+
+Q159: Type: Text
+      Gold: Primanti sandwich
+      Pred: Primanti Bros.' signature sandwich
+      EM: 0.00, F1: 0.67, BLEU: 0.10
+
+Q160: Type: Text
+      Gold: Qatar, Rwanda; Qatar; Rwanda
+      Pred: United States (Pittsburgh, Mountain View, Washington D.C.), Qatar, Portugal (Aveiro, Lisbon, Coimbra), Greece, Japan, Rwanda, Singapore.
+      EM: 0.00, F1: 0.20, BLEU: 0.01
+
+Q161: Type: Text
+      Gold: Red
+      Pred: Scarlet and Brown
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q162: Type: Text
+      Gold: Scotty; Terrier
+      Pred: Tartan (no specific animal mascot)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q163: Type: Date
+      Gold: September 18th - September 21st
+      Pred: Sep 14-17, 2024
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q164: Type: Text
+      Gold: SouthSide Works
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q165: Type: Text
+      Gold: Spring Carnival Weekend
+      Pred: Not provided (the text does not mention an annual spring carnival at Carnegie Mellon University).
+      EM: 0.00, F1: 0.25, BLEU: 0.03
+
+Q166: Type: Text
+      Gold: Steel City; the 'Burgh; City of Bridges
+      Pred: Steel City (or The 'Burgh)
+      EM: 0.00, F1: 0.60, BLEU: 0.05
+
+Q167: Type: Text
+      Gold: Sustainability Initiative at CMU
+      Pred: There is no mention of Carnegie Mellon University in the provided context. Therefore, I cannot determine the name of their sustainability initiative.
+      EM: 0.00, F1: 0.17, BLEU: 0.01
+
+Q168: Type: Text
+      Gold: Swartz Center for Entrepreneurship
+      Pred: Swartz Center for Entrepreneurship
+      EM: 1.00, F1: 1.00, BLEU: 1.00
+
+Q169: Type: Text
+      Gold: T System
+      Pred: Pittsburgh Light Rail (or The T)
+      EM: 0.00, F1: 0.29, BLEU: 0.00
+
+Q170: Type: Text
+      Gold: The Tartan
+      Pred: The Tartan
+      EM: 1.00, F1: 1.00, BLEU: 0.32
+
+Q171: Type: Text
+      Gold: Thick-cut italian bread; Coleslaw; Pastrami; Deli meat; French Fries
+      Pred: Meat, Cheese, Coleslaw
+      EM: 0.00, F1: 0.33, BLEU: 0.00
+
+Q172: Type: Text
+      Gold: Tosca
+      Pred: The text does not provide information about which opera will open the next season of Pittsburgh Opera.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q173: Type: Text
+      Gold: US Steel Tower
+      Pred: Pennsylvania Tower (year: 1971) or U.S. Steel Tower (year: 1979), depending on whether including constructed or completed buildings. If only considering completed buildings, U.S. Steel Tower is the tallest.
+      EM: 0.00, F1: 0.19, BLEU: 0.01
+
+Q174: Type: Text
+      Gold: William Pitt
+      Pred: Pittsburgh got its name from William Penn, who named it after William Pitt, the Earl of Chatham, in 1768.
+      EM: 0.00, F1: 0.20, BLEU: 0.01
+
+Q175: Type: Text
+      Gold: Yinz
+      Pred: "Yinz"
+      EM: 1.00, F1: 1.00, BLEU: 0.00
+
+Q176: Type: Text
+      Gold: Miller Institute
+      Pred: SPACE Gallery (for the Upcoming Exhibitions mentioned)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q177: Type: Date
+      Gold: March 22nd
+      Pred: Not provided (context does not mention Carnegie Mellon University Drama or "The Inseparables")
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q178: Type: Text
+      Gold: Billy Holtz
+      Pred: Not specified in the provided context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q179: Type: Text
+      Gold: Hunt Library, Fourth Floor
+      Pred: Wood Street Galleries (assuming it's an upcoming exhibition related to the context provided)
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+Q180: Type: Text
+      Gold: Holding Still, Holding On
+      Pred: Not provided in the context.
+      EM: 0.00, F1: 0.00, BLEU: 0.00
+
+=== Overall Evaluation Metrics ===
+Average Exact Match: 0.094
+Average F1 Score:      0.201
+Average BLEU Score:    0.042
+
+=== Breakdown by Answer Type ===
+    Number -> EM: 0.077 | F1: 0.167 | BLEU: 0.024
+      Year -> EM: 0.217 | F1: 0.261 | BLEU: 0.039
+      Date -> EM: 0.000 | F1: 0.127 | BLEU: 0.030
+      Text -> EM: 0.088 | F1: 0.236 | BLEU: 0.068
+   Address -> EM: 0.000 | F1: 0.222 | BLEU: 0.007
+     Month -> EM: 0.333 | F1: 0.349 | BLEU: 0.059
